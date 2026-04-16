@@ -1,12 +1,16 @@
 ---
-layout: home
-title: My Jekyll Website
+layout: default
+title: Home
 ---
 
-# 👋 Hello!
+# Welcome
 
-This is my first GitHub Pages website using Jekyll.
+(Insert your Weebly homepage text here)
 
-- About me
-- Projects
-- Contact
+## Short introduction
+Write what your site is about.
+
+## Highlights
+- Project 1
+- Project 2
+- Service info
