@@ -1,22 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
+
+  <link rel="stylesheet" href="/assets/style.css">
 </head>
+
 <body>
 
-  <nav>
-    {% for item in site.data.navigation %}
-      <a href="{{ item.url }}">{{ item.title }}</a> |
-    {% endfor %}
-  </nav>
+<header class="site-header">
+  <div class="container">
+    <h1 class="logo">{{ site.title | default: "My Academic Site" }}</h1>
 
-  <hr>
+    <nav>
+      {% for item in site.data.navigation %}
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
 
-  <main>
-    {{ content }}
-  </main>
+<main class="container content">
+  {{ content }}
+</main>
+
+<footer class="footer">
+  <div class="container">
+    © {{ site.time | date: "%Y" }} — Built with Jekyll
+  </div>
+</footer>
 
 </body>
 </html>
