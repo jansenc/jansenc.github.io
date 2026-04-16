@@ -5,12 +5,10 @@ title: Home
 
 # Welcome
 
-(Insert your Weebly homepage text here)
+I am an academic researcher working in [your field].
 
-## Short introduction
-Write what your site is about.
-
-## Highlights
-- Project 1
-- Project 2
-- Service info
+This website contains:
+- Research projects
+- Teaching activities
+- CV
+- News updates
