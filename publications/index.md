@@ -6,12 +6,13 @@ permalink: /publications/
 
 <h1>Publications</h1>
 
-<!-- FILTER BUTTONS -->
+<!-- ================= FILTERS ================= -->
 <div class="filter-bar">
   <button onclick="filterPubs('all')">All</button>
   <button onclick="filterPubs('journal')">Journals</button>
   <button onclick="filterPubs('conference')">Conferences</button>
   <button onclick="filterPubs('preprint')">Preprints</button>
+  <button onclick="filterPubs('book')">Book Chapters</button>
   <button onclick="filterPubs('thesis')">Theses</button>
 </div>
 
@@ -34,7 +35,7 @@ permalink: /publications/
   display: flex;
   justify-content: space-between;
   gap: 18px;
-  padding: 16px 0;
+  padding: 18px 0;
   border-bottom: 1px solid #eee;
 }
 
@@ -43,13 +44,14 @@ permalink: /publications/
 }
 
 .pub-title {
-  color: teal;
   font-weight: 600;
+  color: teal;
+  font-size: 1.05em;
 }
 
 .pub-meta {
   font-size: 0.9em;
-  color: #444;
+  color: #555;
 }
 
 .tag {
@@ -59,15 +61,17 @@ permalink: /publications/
   border: 1px solid #ddd;
   padding: 2px 6px;
   border-radius: 5px;
-  margin-left: 6px;
+  margin-top: 4px;
+  margin-right: 5px;
 }
 
 .pub img {
   width: 85px;
   height: 85px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 8px;
-  border: 1px solid #ddd;
+  border: 1px solid #eee;
+  background: white;
 }
 
 details {
@@ -90,9 +94,9 @@ function filterPubs(type) {
 }
 </script>
 
-<!-- ========================= -->
-<!-- JOURNAL PAPERS -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!-- ===================== JOURNALS ======================= -->
+<!-- ===================================================== -->
 
 <div class="pub journal">
   <div class="pub-left">
@@ -100,9 +104,8 @@ function filterPubs(type) {
     <div class="pub-meta">International Journal of Approximate Reasoning (2024)</div>
     <span class="tag">SJR Q1/Q2</span>
 
-    <details>
-      <summary>Abstract</summary>
-      We propose a depth-based framework for comparing machine learning algorithms under uncertainty.
+    <details><summary>Abstract</summary>
+      Depth-based comparison framework for ML algorithms under uncertainty.
     </details>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
@@ -114,12 +117,20 @@ function filterPubs(type) {
     <div class="pub-meta">Journal of Machine Learning Research (2023)</div>
     <span class="tag">SJR Q1</span>
 
-    <details>
-      <summary>Abstract</summary>
-      We introduce generalized stochastic dominance as a method for comparing classifiers statistically.
+    <details><summary>Abstract</summary>
+      Generalized stochastic dominance framework for classifier comparison.
     </details>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/JMLR_logo.svg">
+</div>
+
+<div class="pub journal">
+  <div class="pub-left">
+    <div class="pub-title">Information Efficient Learning of Complexly Structured Preferences</div>
+    <div class="pub-meta">International Journal of Approximate Reasoning (2022)</div>
+    <span class="tag">SJR Q1/Q2</span>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
 </div>
 
 <div class="pub journal">
@@ -131,9 +142,25 @@ function filterPubs(type) {
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
 </div>
 
-<!-- ========================= -->
-<!-- CONFERENCE PAPERS -->
-<!-- ========================= -->
+<div class="pub journal">
+  <div class="pub-left">
+    <div class="pub-title">Concepts for Decision Making under Severe Uncertainty</div>
+    <div class="pub-meta">International Journal of Approximate Reasoning (2018)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<div class="pub journal">
+  <div class="pub-left">
+    <div class="pub-title">A Probabilistic Evaluation Framework for Preference Aggregation</div>
+    <div class="pub-meta">Mathematical Social Sciences (2018)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<!-- ===================================================== -->
+<!-- ================= CONFERENCES ======================= -->
+<!-- ===================================================== -->
 
 <div class="pub conference">
   <div class="pub-left">
@@ -141,9 +168,8 @@ function filterPubs(type) {
     <div class="pub-meta">NeurIPS 2024 (Spotlight)</div>
     <span class="tag">CORE A*</span>
 
-    <details>
-      <summary>Abstract</summary>
-      We introduce a multicriteria benchmarking framework for machine learning evaluation.
+    <details><summary>Abstract</summary>
+      Multicriteria benchmarking framework for ML evaluation.
     </details>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/NeurIPS_logo.svg">
@@ -160,26 +186,62 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Robust statistical comparison of random variables</div>
+    <div class="pub-title">Robust Statistical Comparison of Random Variables</div>
     <div class="pub-meta">UAI 2023</div>
     <span class="tag">CORE A</span>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
 </div>
 
-<!-- ========================= -->
-<!-- PREPRINTS -->
-<!-- ========================= -->
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Depth Functions for Partial Orders</div>
+    <div class="pub-meta">ISIPTA 2023</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Robust Selection of Pseudo-Labeled Data</div>
+    <div class="pub-meta">ISIPTA 2023</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Multi-target Decision Making under Severe Uncertainty</div>
+    <div class="pub-meta">MDAI 2023</div>
+    <span class="tag">CORE B</span>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Decision Theory Meets Linear Optimization</div>
+    <div class="pub-meta">ECSQARU 2017</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<!-- ===================================================== -->
+<!-- ================= PREPRINTS ========================= -->
+<!-- ===================================================== -->
+
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title">Empirical Decision Theory</div>
+    <div class="pub-meta">arXiv (2026)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+</div>
 
 <div class="pub preprint">
   <div class="pub-left">
     <div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
     <div class="pub-meta">arXiv (2026)</div>
-
-    <details>
-      <summary>Abstract</summary>
-      We extend Arrow-type impossibility results into constructive benchmarking frameworks.
-    </details>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
 </div>
@@ -192,30 +254,46 @@ function filterPubs(type) {
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
 </div>
 
-<div class="pub preprint">
+<!-- ===================================================== -->
+<!-- ================= BOOK CHAPTERS ===================== -->
+<!-- ===================================================== -->
+
+<div class="pub book">
   <div class="pub-left">
-    <div class="pub-title">Empirical Decision Theory</div>
-    <div class="pub-meta">arXiv (under review)</div>
+    <div class="pub-title">Quantifying Degrees of E-admissibility</div>
+    <div class="pub-meta">Theory and Decision Library A (2022)</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
 </div>
 
-<!-- ========================= -->
-<!-- THESES -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!-- ================= THESES ============================= -->
+<!-- ===================================================== -->
 
 <div class="pub thesis">
   <div class="pub-left">
-    <div class="pub-title">Habilitation Thesis</div>
-    <div class="pub-meta">LMU Munich (2024)</div>
+    <div class="pub-title">Habilitation Thesis (2024)</div>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
 </div>
 
 <div class="pub thesis">
   <div class="pub-left">
-    <div class="pub-title">PhD Thesis</div>
-    <div class="pub-meta">LMU Munich (2018)</div>
+    <div class="pub-title">PhD Thesis (2018)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
+</div>
+
+<div class="pub thesis">
+  <div class="pub-left">
+    <div class="pub-title">Master Thesis (2015)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
+</div>
+
+<div class="pub thesis">
+  <div class="pub-left">
+    <div class="pub-title">Bachelor Thesis (2013)</div>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
 </div>
