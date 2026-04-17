@@ -210,11 +210,15 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Robust Statistical Comparison of Random Variables</div>
+    <div class="pub-title">Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement</div>
     <div class="pub-meta">UAI 2023</div>
     <span class="tag">CORE A</span>
+
+    <details><summary>Abstract</summary>
+      We demonstrate that numerous machine learning algorithms are specific instances of one single paradigm: reciprocal learning. These instances range from active learning over multi-armed bandits to self-training. We show that all these algorithms not only learn parameters from data but also vice versa: They iteratively alter training data in a way that depends on the current model fit. We introduce reciprocal learning as a generalization of these algorithms using the language of decision theory. This allows us to study under what conditions they converge. The key is to guarantee that reciprocal learning contracts such that the Banach fixed-point theorem applies. In this way, we find that reciprocal learning converges at linear rates to an approximately optimal model under some assumptions on the loss function, if their predictions are probabilistic and the sample adaption is both non-greedy and either randomized or regularized. We interpret these findings and provide corollaries that relate them to active learning, self-training, and bandits.
+    </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/uai2023.png">
 </div>
 
 <div class="pub conference">
