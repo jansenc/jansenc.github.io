@@ -143,7 +143,7 @@ function filterPubs(type) {
     <div class="pub-meta">Theory and Decision (2022)</div>
     <span class="tag">SJR Q2</span>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/11238.webp">
 </div>
 
 <div class="pub journal">
