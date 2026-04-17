@@ -12,15 +12,18 @@ permalink: /publications/
   <button onclick="filterPubs('journal')">Journals</button>
   <button onclick="filterPubs('conference')">Conferences</button>
   <button onclick="filterPubs('preprint')">Preprints</button>
+  <button onclick="filterPubs('book')">Book Chapters</button>
+  <button onclick="filterPubs('thesis')">Theses</button>
 </div>
 
 <style>
 .filter-bar {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .filter-bar button {
-  margin-right: 8px;
+  margin-right: 6px;
+  margin-bottom: 6px;
   padding: 6px 10px;
   border: 1px solid #ccc;
   background: #f8f8f8;
@@ -31,8 +34,8 @@ permalink: /publications/
 .pub {
   display: flex;
   justify-content: space-between;
-  gap: 15px;
-  padding: 15px 0;
+  gap: 18px;
+  padding: 16px 0;
   border-bottom: 1px solid #eee;
 }
 
@@ -53,11 +56,12 @@ permalink: /publications/
 .pub-tags {
   font-size: 0.75em;
   color: purple;
+  margin-top: 3px;
 }
 
 .pub img {
-  width: 90px;
-  height: 90px;
+  width: 85px;
+  height: 85px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid #ddd;
@@ -73,49 +77,83 @@ details {
 }
 </style>
 
-<!-- PUBLICATION LIST -->
+<!-- ===================== -->
+<!-- TEMPLATE BLOCK -->
+<!-- ===================== -->
 
-<div class="pub conference">
-  <div class="pub-left">
-    <div class="pub-title">Statistical Multicriteria Benchmarking via the GSD-Front</div>
-    <div class="pub-meta">NeurIPS 2024 (Spotlight)</div>
-    <div class="pub-tags">CORE A*</div>
-
-    <details>
-      <summary>Abstract</summary>
-      Method for comparing machine learning algorithms via statistical multicriteria evaluation...
-    </details>
-  </div>
-  <img src="https://via.placeholder.com/90" alt="paper image">
-</div>
-
+<!-- JOURNAL PAPER -->
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</div>
-    <div class="pub-meta">JMLR 2023</div>
+    <div class="pub-title">TITLE HERE</div>
+    <div class="pub-meta">AUTHORS (YEAR), JOURNAL NAME</div>
+    <div class="pub-tags">SJR / CATEGORY TAGS</div>
 
     <details>
       <summary>Abstract</summary>
-      We introduce a framework for comparing classifiers using stochastic dominance...
+      ABSTRACT TEXT HERE
     </details>
   </div>
-  <img src="https://via.placeholder.com/90" alt="paper image">
+  <img src="https://via.placeholder.com/85" alt="paper image">
 </div>
 
+<!-- CONFERENCE PAPER -->
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">TITLE HERE</div>
+    <div class="pub-meta">AUTHORS (YEAR), CONFERENCE</div>
+    <div class="pub-tags">CORE RANK</div>
+
+    <details>
+      <summary>Abstract</summary>
+      ABSTRACT TEXT HERE
+    </details>
+  </div>
+  <img src="https://via.placeholder.com/85" alt="paper image">
+</div>
+
+<!-- PREPRINT -->
 <div class="pub preprint">
   <div class="pub-left">
-    <div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
-    <div class="pub-meta">Preprint (2026)</div>
+    <div class="pub-title">TITLE HERE</div>
+    <div class="pub-meta">AUTHORS (YEAR), PREPRINT</div>
 
     <details>
       <summary>Abstract</summary>
-      This work generalizes Arrow-type impossibility results into constructive benchmarking settings...
+      ABSTRACT TEXT HERE
     </details>
   </div>
-  <img src="https://via.placeholder.com/90" alt="paper image">
+  <img src="https://via.placeholder.com/85" alt="paper image">
 </div>
 
-<!-- JS FILTER -->
+<!-- BOOK CHAPTER -->
+<div class="pub book">
+  <div class="pub-left">
+    <div class="pub-title">TITLE HERE</div>
+    <div class="pub-meta">BOOK TITLE / EDITORS / YEAR</div>
+
+    <details>
+      <summary>Abstract</summary>
+      ABSTRACT OR DESCRIPTION HERE
+    </details>
+  </div>
+  <img src="https://via.placeholder.com/85" alt="book cover">
+</div>
+
+<!-- THESIS -->
+<div class="pub thesis">
+  <div class="pub-left">
+    <div class="pub-title">TITLE HERE</div>
+    <div class="pub-meta">TYPE OF THESIS (PhD / MSc / BSc), UNIVERSITY, YEAR</div>
+
+    <details>
+      <summary>Abstract</summary>
+      ABSTRACT OR SUMMARY HERE
+    </details>
+  </div>
+  <img src="https://via.placeholder.com/85" alt="thesis image">
+</div>
+
+<!-- FILTER SCRIPT -->
 <script>
 function filterPubs(type) {
   let pubs = document.getElementsByClassName("pub");
