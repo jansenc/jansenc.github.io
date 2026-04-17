@@ -121,7 +121,7 @@ function filterPubs(type) {
       Although being a crucial question for the development of machine learning algorithms, there is still no consensus on how to compare classifiers over multiple data sets with respect to several criteria. Every comparison framework is confronted with (at least) three fundamental challenges: the multiplicity of quality criteria, the multiplicity of data sets and the randomness of the selection of data sets. In this paper, we add a fresh view to the vivid debate by adopting recent developments in decision theory. Based on so-called preference systems, our framework ranks classifiers by a generalized concept of stochastic dominance, which powerfully circumvents the cumbersome, and often even self-contradictory, reliance on aggregates. Moreover, we show that generalized stochastic dominance can be operationalized by solving easy-to-handle linear programs and moreover statistically tested employing an adapted two-sample observation-randomization test. This yields indeed a powerful framework for the statistical comparison of classifiers over multiple data sets with respect to multiple quality criteria simultaneously. We illustrate and investigate our framework in a simulation study and with a set of standard benchmark data sets.
     </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/JMLR_logo.svg">
+  <img src="/assets/jmlr.jpg">
 </div>
 
 <div class="pub journal">
