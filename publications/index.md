@@ -154,8 +154,14 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title">Concepts for Decision Making under Severe Uncertainty</div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2018)</div>
+<span class="tag">SJR Q1/Q2</span>
+
+    <details><summary>Abstract</summary>
+      We introduce three different approaches for decision making under uncertainty if (I) there is only partial (both cardinally and ordinally scaled) information on an agent's preferences and (II) the uncertainty about the states of nature is described by a credal set (or some other imprecise probabilistic model). Particularly, situation (I) is modeled by a pair of binary relations, one specifying the partial rank order of the alternatives and the other modeling partial information on the strength of preference. Our first approach relies on decision criteria constructing complete rankings of the available acts that are based on generalized expectation intervals. Subsequently, we introduce different concepts of global admissibility that construct partial orders between the available acts by comparing them all simultaneously. Finally, we define criteria induced by suitable binary relations on the set of acts and, therefore, can be understood as concepts of local admissibility. For certain criteria, we provide linear programming based algorithms for checking optimality/admissibility of acts. Additionally, the paper includes a discussion of a prototypical situation by means of a toy example.
+    </details>
+    
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/ijar.jpg">
 </div>
 
 <div class="pub journal">
