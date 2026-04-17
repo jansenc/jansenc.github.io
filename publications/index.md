@@ -192,7 +192,7 @@ function filterPubs(type) {
       Multicriteria benchmarking framework for ML evaluation.
     </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/NeurIPS_logo.svg">
+  <img src="/assets/nips.svg">
 </div>
 
 <div class="pub conference">
