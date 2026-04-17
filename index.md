@@ -11,4 +11,4 @@ Before, I was a  PostDoc at the Department of Statistics of LMU Munich, where I 
 
 ​Further, I am serving as a member of the executive committee of the Society for Imprecise Probabilities: Theories and Applications (SIPTA). 
 
-​On this site, I collect information about my research and teaching activities. If you are interested in any of the topics and would like to discuss them, just write me a message. I am always happy to chat.
+​On this site, I collect information about my research and teaching activities. If you are interested in any of the topics and would like to discuss them, just write me a message. I am always happy to chat.  
