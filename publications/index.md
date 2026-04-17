@@ -168,8 +168,13 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title">A Probabilistic Evaluation Framework for Preference Aggregation</div>
     <div class="pub-meta">Mathematical Social Sciences (2018)</div>
+   <span class="tag">SJR Q2</span>
+
+    <details><summary>Abstract</summary>
+      Groups differ in the homogeneity of their members’ preferences. Reflecting this, we propose a probabilistic criterion for evaluating and comparing the adequateness of preference aggregation procedures that takes into account information on the considered group’s homogeneity structure. Further, we discuss two approaches for approximating our criterion if information is only imperfectly given and show how to estimate these approximations from data. As a preparation, we elaborate some general minimal requirements for measuring homogeneity and discuss a specific proposal for a homogeneity measure. Finally, we investigate our framework by comparing aggregation rules in a simulation study.
+    
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/mss.jpg">
 </div>
 
 <!-- ===================================================== -->
