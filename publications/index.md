@@ -242,8 +242,11 @@ function filterPubs(type) {
     <div class="pub-title">Multi-target Decision Making under Severe Uncertainty</div>
     <div class="pub-meta">MDAI 2023</div>
     <span class="tag">CORE B</span>
+
+    <details><summary>Abstract</summary>
+     The quality of consequences in a decision making problem under (severe) uncertainty must often be compared among different targets (goals, objectives) simultaneously. In addition, the evaluations of a consequence’s performance under the various targets often differ in their scale of measurement, classically being either purely ordinal or perfectly cardinal. In this paper, we transfer recent developments from abstract decision theory with incomplete preferential and probabilistic information to this multi-target setting and show how – by exploiting the (potentially) partial cardinal and partial probabilistic information – more informative orders for comparing decisions can be given than the Pareto order. We discuss some interesting properties of the proposed orders between decision options and show how they can be concretely computed by linear optimization. We conclude the paper by demonstrating our framework in an artificial (but quite real-world) example in the context of comparing algorithms under different performance measures.
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/mdai.webp">
 </div>
 
 <div class="pub conference">
