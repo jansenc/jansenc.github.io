@@ -4,9 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-<h1>Curriculum Vitae</h1>
-
-<h2>Professional Experience</h2>
+<h2>Short CV:</h2>
 
 <div class="cv-entry">
   <h3>Since June 2024</h3>
