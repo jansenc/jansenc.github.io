@@ -5,9 +5,11 @@ title: Contact
 
 # Contact
 
-Email: your-email@example.com
+Dr. habil. Christoph Jansen
+Assistant Professor in Data Science
+School of Computing & Communications
+Lancaster University Leipzig
 
-Add:
-- institution
-- office address
-- links (Google Scholar, etc.)
+Address: Strohsack Passage, Nikolaistrasse 10, 04109 Leipzig, Germany, Office 603
+Email: c.jansen@lancaster.ac.uk
+
