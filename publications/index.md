@@ -239,7 +239,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Multi-target Decision Making under Severe Uncertainty</div>
+    <div class="pub-title">Multi-target Decision Making Under Conditions of Severe Uncertainty</div>
     <div class="pub-meta">MDAI 2023</div>
     <span class="tag">CORE B</span>
 
