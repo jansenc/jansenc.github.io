@@ -129,8 +129,12 @@ function filterPubs(type) {
     <div class="pub-title">Information Efficient Learning of Complexly Structured Preferences</div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2022)</div>
     <span class="tag">SJR Q1/Q2</span>
+
+    <details><summary>Abstract</summary>
+      In this paper we propose efficient methods for elicitation of complexly structured preferences and utilize these in problems of decision making under (severe) uncertainty. Based on the general framework introduced in Jansen et al. (2018) [37], we now design elicitation procedures and algorithms that enable decision makers to reveal their underlying preference system (i.e. two relations, one encoding the ordinal, the other the cardinal part of the preferences) while having to answer as few as possible simple ranking questions. Here, two different approaches are followed. The first approach directly utilizes the collected ranking data for obtaining the ordinal part of the preferences, while their cardinal part is constructed implicitly by measuring the decision maker's consideration times. In contrast, the second approach explicitly elicits also the cardinal part of the decision maker's preference system, however, only an approximate version of it. This approximation is obtained by additionally collecting labels of preference strength during the elicitation procedure. For both approaches, we give conditions under which they produce the decision maker's true preference system and investigate how their efficiency can be improved. For the latter purpose, besides data-free approaches, we also discuss ways for statistically guiding the elicitation procedure if data from elicitations of previous decision makers is available. Finally, we demonstrate how the proposed elicitation methods can be utilized in problems of decision under (severe) uncertainty. Precisely, we show that under certain conditions optimal decisions can be found without fully specifying the preference system.
+    </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/ijar.jpg">
 </div>
 
 <div class="pub journal">
