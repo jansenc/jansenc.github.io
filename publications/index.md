@@ -226,7 +226,7 @@ function filterPubs(type) {
     <div class="pub-title">Depth Functions for Partial Orders</div>
     <div class="pub-meta">ISIPTA 2023</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/pmlr.svg">
 </div>
 
 <div class="pub conference">
@@ -234,7 +234,7 @@ function filterPubs(type) {
     <div class="pub-title">Robust Selection of Pseudo-Labeled Data</div>
     <div class="pub-meta">ISIPTA 2023</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/pmlr.svg">
 </div>
 
 <div class="pub conference">
