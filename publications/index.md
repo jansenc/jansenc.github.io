@@ -252,7 +252,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Decision Theory Meets Linear Optimization</div>
+    <div class="pub-title">Decision Theory Meets Linear Optimization Beyond Computation</div>
     <div class="pub-meta">ECSQARU 2017</div>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
