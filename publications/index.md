@@ -4,26 +4,41 @@ title: Publications
 permalink: /publications/
 ---
 
+<h1>Publications</h1>
+
+<!-- FILTER BUTTONS -->
+<div class="filter-bar">
+  <button onclick="filterPubs('all')">All</button>
+  <button onclick="filterPubs('journal')">Journals</button>
+  <button onclick="filterPubs('conference')">Conferences</button>
+  <button onclick="filterPubs('preprint')">Preprints</button>
+  <button onclick="filterPubs('thesis')">Theses</button>
+</div>
+
 <style>
-.rsection {
-  margin-top: 40px;
+.filter-bar {
+  margin-bottom: 25px;
 }
 
-.rsection h2 {
-  margin-top: 30px;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 6px;
+.filter-bar button {
+  margin-right: 6px;
+  margin-bottom: 6px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  cursor: pointer;
+  border-radius: 6px;
 }
 
-.pub-item {
+.pub {
   display: flex;
   justify-content: space-between;
   gap: 18px;
-  padding: 14px 0;
+  padding: 16px 0;
   border-bottom: 1px solid #eee;
 }
 
-.pub-text {
+.pub-left {
   flex: 1;
 }
 
@@ -33,13 +48,8 @@ permalink: /publications/
 }
 
 .pub-meta {
-  font-size: 0.92em;
+  font-size: 0.9em;
   color: #444;
-}
-
-.pub-small {
-  font-size: 0.85em;
-  color: #666;
 }
 
 .tag {
@@ -52,164 +62,160 @@ permalink: /publications/
   margin-left: 6px;
 }
 
-.pub-img {
-  width: 80px;
-  height: 80px;
+.pub img {
+  width: 85px;
+  height: 85px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid #ddd;
 }
+
+details {
+  margin-top: 6px;
+  font-size: 0.9em;
+}
 </style>
 
-<div class="rsection">
+<script>
+function filterPubs(type) {
+  let pubs = document.getElementsByClassName("pub");
 
-<h2>Peer-Reviewed Publications</h2>
+  for (let i = 0; i < pubs.length; i++) {
+    if (type === "all") {
+      pubs[i].style.display = "flex";
+    } else {
+      pubs[i].style.display = pubs[i].classList.contains(type) ? "flex" : "none";
+    }
+  }
+}
+</script>
 
-<ol>
+<!-- ========================= -->
+<!-- JOURNAL PAPERS -->
+<!-- ========================= -->
 
-<li class="pub-item">
-<div class="pub-text">
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T., Rodemann, J. (2026):
-<div class="pub-title">Empirical Decision Theory</div>
-Revision under review for <em>Information Sciences</em>.
-<span class="tag">SJR Q1 (Theoretical CS, AI)</span><br>
-<div class="pub-small">
-Preprint: <a href="https://doi.org/10.48550/arXiv.2512.05677">arXiv link</a>
-</div>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
+<div class="pub journal">
+  <div class="pub-left">
+    <div class="pub-title">Comparing Machine Learning Algorithms by Union-Free Generic Depth</div>
+    <div class="pub-meta">International Journal of Approximate Reasoning (2024)</div>
+    <span class="tag">SJR Q1/Q2</span>
 
-<li class="pub-item">
-<div class="pub-text">
-Garces-Arias, E., Blocher, H., Rodemann, J., Assenmacher, M., <em>Jansen, C.</em> (2025):
-<div class="pub-title">Statistical Multicriteria Evaluation of LLM-Generated Text</div>
-INLG 2025 (ACL)
-<span class="tag">CORE B</span>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-Gordienko, P., <em>Jansen, C.</em>, Augustin, T., Rechenauer, M. (2025):
-<div class="pub-title">Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation</div>
-ECSQARU 2025
-<span class="tag">CORE C</span>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-<em>Jansen, C.</em>, Schollmeyer, G., Rodemann, J., Blocher, H., Augustin, T. (2024):
-<div class="pub-title">Statistical Multicriteria Benchmarking via the GSD-Front</div>
-NeurIPS 2024 — <strong>Spotlight</strong>
-<span class="tag">CORE A*</span>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-Rodemann, J., <em>Jansen, C.</em>, Schollmeyer, G. (2024):
-<div class="pub-title">Reciprocal Learning</div>
-NeurIPS 2024
-<span class="tag">CORE A*</span>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-Dietrich, S., Rodemann, J., <em>Jansen, C.</em> (2024):
-<div class="pub-title">Semi-Supervised Learning guided by the Generalized Bayes Rule under Soft Revision</div>
-SMPS 2024
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-Blocher, H., Schollmeyer, S., Nalenz, M., <em>Jansen, C.</em> (2024):
-<div class="pub-title">Comparing Machine Learning Algorithms by Union-Free Generic Depth</div>
-International Journal of Approximate Reasoning 169: 1–23
-<span class="tag">SJR Q1/Q2</span>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-<em>Jansen, C.</em>, Nalenz, M., Schollmeyer, G., Augustin, T. (2023):
-<div class="pub-title">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</div>
-JMLR 24: 1–37
-<span class="tag">SJR Q1</span>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-</ol>
-
+    <details>
+      <summary>Abstract</summary>
+      We propose a depth-based framework for comparing machine learning algorithms under uncertainty.
+    </details>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
 </div>
 
-<hr>
+<div class="pub journal">
+  <div class="pub-left">
+    <div class="pub-title">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</div>
+    <div class="pub-meta">Journal of Machine Learning Research (2023)</div>
+    <span class="tag">SJR Q1</span>
 
-<div class="rsection">
-
-<h2>Preprints and Work in Progress</h2>
-
-<ol>
-
-<li class="pub-item">
-<div class="pub-text">
-Rodemann, R., Garces-Arias, E., Luther, C., <em>Jansen, C.</em> (2026):
-<div class="pub-title">A Statistical Case Against Empirical Human–AI Alignment</div>
-<a href="https://arxiv.org/abs/2502.14581">arXiv</a>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-<li class="pub-item">
-<div class="pub-text">
-Gordienko, P., <em>Jansen, C.</em> (2026):
-<div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
-<a href="https://doi.org/10.48550/arXiv.2602.07593">arXiv</a>
-</div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
-
-</ol>
-
+    <details>
+      <summary>Abstract</summary>
+      We introduce generalized stochastic dominance as a method for comparing classifiers statistically.
+    </details>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/JMLR_logo.svg">
 </div>
 
-<hr>
-
-<div class="rsection">
-
-<h2>Theses</h2>
-
-<ol>
-
-<li class="pub-item">
-<div class="pub-text">
-<em>Jansen, C.</em> (2024):
-<div class="pub-title">Habilitation Thesis</div>
-Decision Theoretic Foundations of Machine Learning<br>
-<a href="https://arxiv.org/abs/2501.10195">link</a>
+<div class="pub journal">
+  <div class="pub-left">
+    <div class="pub-title">Risk Aversion over Finite Domains</div>
+    <div class="pub-meta">Theory and Decision (2022)</div>
+    <span class="tag">SJR Q2</span>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
 </div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
 
-<li class="pub-item">
-<div class="pub-text">
-<em>Jansen, C.</em> (2018):
-<div class="pub-title">PhD Thesis</div>
-<a href="https://edoc.ub.uni-muenchen.de/22653/">link</a>
+<!-- ========================= -->
+<!-- CONFERENCE PAPERS -->
+<!-- ========================= -->
+
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Statistical Multicriteria Benchmarking via the GSD-Front</div>
+    <div class="pub-meta">NeurIPS 2024 (Spotlight)</div>
+    <span class="tag">CORE A*</span>
+
+    <details>
+      <summary>Abstract</summary>
+      We introduce a multicriteria benchmarking framework for machine learning evaluation.
+    </details>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/NeurIPS_logo.svg">
 </div>
-<img class="pub-img" src="https://via.placeholder.com/80">
-</li>
 
-</ol>
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Reciprocal Learning</div>
+    <div class="pub-meta">NeurIPS 2024</div>
+    <span class="tag">CORE A*</span>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/NeurIPS_logo.svg">
+</div>
 
+<div class="pub conference">
+  <div class="pub-left">
+    <div class="pub-title">Robust statistical comparison of random variables</div>
+    <div class="pub-meta">UAI 2023</div>
+    <span class="tag">CORE A</span>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+</div>
+
+<!-- ========================= -->
+<!-- PREPRINTS -->
+<!-- ========================= -->
+
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
+    <div class="pub-meta">arXiv (2026)</div>
+
+    <details>
+      <summary>Abstract</summary>
+      We extend Arrow-type impossibility results into constructive benchmarking frameworks.
+    </details>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+</div>
+
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title">A Statistical Case Against Empirical Human–AI Alignment</div>
+    <div class="pub-meta">arXiv (2026)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+</div>
+
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title">Empirical Decision Theory</div>
+    <div class="pub-meta">arXiv (under review)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+</div>
+
+<!-- ========================= -->
+<!-- THESES -->
+<!-- ========================= -->
+
+<div class="pub thesis">
+  <div class="pub-left">
+    <div class="pub-title">Habilitation Thesis</div>
+    <div class="pub-meta">LMU Munich (2024)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
+</div>
+
+<div class="pub thesis">
+  <div class="pub-left">
+    <div class="pub-title">PhD Thesis</div>
+    <div class="pub-meta">LMU Munich (2018)</div>
+  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
 </div>
