@@ -254,8 +254,13 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title">Decision Theory Meets Linear Optimization Beyond Computation</div>
     <div class="pub-meta">ECSQARU 2017</div>
+    <span class="tag">CORE c</span>
+
+    <details><summary>Abstract</summary>
+    The paper is concerned with decision making under complex uncertainty. We consider the Hodges and Lehmann-criterion relying on uncertain classical probabilities and Walley’s maximality relying on imprecise probabilities. We present linear programming based approaches for computing optimal acts as well as for determining least favorable prior distributions in finite decision settings. Further, we apply results from duality theory of linear programming in order to provide theoretical insights into certain characteristics of these optimal solutions. Particularly, we characterize conditions under which randomization pays out when defining optimality in terms of the Gamma-Maximin criterion and investigate how these conditions relate to least favorable priors.
+     </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="/assets/ecsquaru.webp">
 </div>
 
 <!-- ===================================================== -->
