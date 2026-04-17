@@ -10,9 +10,9 @@
 
 <body>
 
-<header class="site-header">
-  <div class="container">
-    <h1 class="logo">{{ site.title | default: "My Academic Site" }}</h1>
+<header class="header">
+  <div class="container header-inner">
+    <div class="name">{{ site.title }}</div>
 
     <nav>
       {% for item in site.data.navigation %}
@@ -22,13 +22,33 @@
   </div>
 </header>
 
-<main class="container content">
-  {{ content }}
-</main>
+<div class="container layout">
+
+  <aside class="sidebar">
+    <img src="/assets/profile.jpg" class="profile">
+
+    <h2>{{ site.title }}</h2>
+    <p>
+      Short bio goes here.<br>
+      Your institution<br>
+      Your field
+    </p>
+
+    <p>
+      <a href="/cv/">CV</a><br>
+      <a href="#">Google Scholar</a>
+    </p>
+  </aside>
+
+  <main class="main-content">
+    {{ content }}
+  </main>
+
+</div>
 
 <footer class="footer">
   <div class="container">
-    © {{ site.time | date: "%Y" }} — Built with Jekyll
+    © {{ site.time | date: "%Y" }}
   </div>
 </footer>
 
