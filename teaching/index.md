@@ -7,7 +7,7 @@ permalink: /teaching/
 <h1>Teaching</h1>
 
 <p>
-  (For a full list of my academic teaching activities starting in 2013, please contact me.)
+  (For a full list of my academic teaching activities starting in 2013, please see the pdf version of the CV.)
 </p>
 
 <h2>Academic Year 2025/26</h2>
