@@ -105,7 +105,7 @@ function filterPubs(type) {
     <span class="tag">SJR Q1/Q2</span>
 
     <details><summary>Abstract</summary>
-      Depth-based comparison framework for ML algorithms under uncertainty.
+      We propose a framework for descriptively analyzing sets of partial orders based on the concept of depth functions. Despite intensive studies in linear and metric spaces, there is very little discussion on depth functions for non-standard data types such as partial orders. We introduce an adaptation of the well-known simplicial depth to the set of all partial orders, the union-free generic (ufg) depth. Moreover, we utilize our ufg depth for a comparison of machine learning algorithms based on multidimensional performance measures. Concretely, we provide two examples of classifier comparisons on samples of standard benchmark data sets. Our results demonstrate promisingly the wide variety of different analysis approaches based on ufg methods. Furthermore, the examples outline that our approach differs substantially from existing benchmarking approaches, and thus adds a new perspective to the vivid debate on classifier comparison.
     </details>
   </div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
