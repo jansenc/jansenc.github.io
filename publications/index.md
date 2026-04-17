@@ -10,233 +10,188 @@ permalink: /publications/
 The following list contains all peer-reviewed publications. For conference proceedings, if available, the most recent CORE ranking is displayed. For journal articles, the relevant SJR quartiles are included.
 </p>
 
-<ol>
+<style>
+.pub-section {
+  margin-top: 40px;
+}
+
+.pub-list {
+  counter-reset: item;
+  padding-left: 20px;
+}
+
+.pub-list li {
+  margin-bottom: 18px;
+  line-height: 1.5;
+}
+
+.pub-title {
+  color: teal;
+  font-weight: 500;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.75em;
+  color: purple;
+  border: 1px solid #ddd;
+  padding: 2px 6px;
+  border-radius: 5px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.small {
+  font-size: 0.85em;
+  color: #444;
+}
+
+hr.dots {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 8px 0;
+}
+</style>
+
+<div class="pub-section">
+
+<ol class="pub-list">
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T., Rodemann, J. (2026):
-<strong>Empirical Decision Theory</strong>.
-Revision under review for <em>Information Sciences</em>.<br>
-<small>SJR 2023: Q1 (Theoretical CS), Q1 (AI)</small><br>
+<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T., Rodemann, J. (2026):<br>
+<span class="pub-title">Empirical Decision Theory</span><br>
+Revision under review for <em>Information Sciences</em>.
+<span class="tag">SJR Q1 (Theoretical CS, AI)</span><br>
+<span class="small">
 Preprint: <a href="https://doi.org/10.48550/arXiv.2512.05677">arXiv link</a>
+</span>
 </li>
 
 <li>
-Garces-Arias, E., Blocher, H., Rodemann, J., Assenmacher, M., <em>Jansen, C.</em> (2025):
-<strong>Statistical Multicriteria Evaluation of LLM-Generated Text</strong>.
-INLG 2025.<br>
-<small>CORE 2023: B</small>
+Garces-Arias, E., Blocher, H., Rodemann, J., Assenmacher, M., <em>Jansen, C.</em> (2025):<br>
+<span class="pub-title">Statistical Multicriteria Evaluation of LLM-Generated Text</span><br>
+INLG 2025 (ACL).
+<span class="tag">CORE B</span>
 </li>
 
 <li>
-Gordienko, P., <em>Jansen, C.</em>, Augustin, T., Rechenauer, M. (2025):
-<strong>Consensus in Motion: Dynamic Rationality of Sequential Learning in Probability Aggregation</strong>.
-ECSQARU 2025.<br>
-<small>CORE 2023: C</small>
+Gordienko, P., <em>Jansen, C.</em>, Augustin, T., Rechenauer, M. (2025):<br>
+<span class="pub-title">Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation</span><br>
+ECSQARU 2025.
+<span class="tag">CORE C</span>
 </li>
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Rodemann, J., Blocher, H., Augustin, T. (2024):
-<strong>Statistical Multicriteria Benchmarking via the GSD-Front</strong>.
-NeurIPS 2024 (Spotlight).<br>
-<small>CORE 2023: A*</small>
+<em>Jansen, C.</em>, Schollmeyer, G., Rodemann, J., Blocher, H., Augustin, T. (2024):<br>
+<span class="pub-title">Statistical Multicriteria Benchmarking via the GSD-Front</span><br>
+NeurIPS 2024 — <strong>Spotlight Paper</strong>.
+<span class="tag">CORE A*</span>
 </li>
 
 <li>
-Rodemann, J., <em>Jansen, C.</em>, Schollmeyer, G. (2024):
-<strong>Reciprocal Learning</strong>.
-NeurIPS 2024.<br>
-<small>CORE 2023: A*</small>
+Rodemann, J., <em>Jansen, C.</em>, Schollmeyer, G. (2024):<br>
+<span class="pub-title">Reciprocal Learning</span><br>
+NeurIPS 2024.
+<span class="tag">CORE A*</span>
 </li>
 
 <li>
-Dietrich, S., Rodemann, J., <em>Jansen, C.</em> (2024):
-<strong>Semi-Supervised Learning guided by the Generalized Bayes Rule under Soft Revision</strong>.
+Dietrich, S., Rodemann, J., <em>Jansen, C.</em> (2024):<br>
+<span class="pub-title">Semi-Supervised Learning guided by the Generalized Bayes Rule under Soft Revision</span><br>
 SMPS 2024.
 </li>
 
 <li>
-Blocher, H., Schollmeyer, S., Nalenz, M., <em>Jansen, C.</em> (2024):
-<strong>Comparing Machine Learning Algorithms by Union-Free Generic Depth</strong>.
-International Journal of Approximate Reasoning, 169: 1–23.
+Blocher, H., Schollmeyer, S., Nalenz, M., <em>Jansen, C.</em> (2024):<br>
+<span class="pub-title">Comparing Machine Learning Algorithms by Union-Free Generic Depth</span><br>
+International Journal of Approximate Reasoning (169: 1–23).
+<span class="tag">SJR Q1/Q2</span>
 </li>
 
 <li>
-<em>Jansen, C.</em>, Nalenz, M., Schollmeyer, G., Augustin, T. (2023):
-<strong>Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</strong>.
-JMLR, 24: 1–37.
+<em>Jansen, C.</em>, Nalenz, M., Schollmeyer, G., Augustin, T. (2023):<br>
+<span class="pub-title">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</span><br>
+Journal of Machine Learning Research (24: 1–37).
+<span class="tag">SJR Q1</span>
 </li>
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Blocher, H., Rodemann, J., Augustin, T. (2023):
-<strong>Robust statistical comparison of random variables with locally varying scale of measurement</strong>.
+<em>Jansen, C.</em>, Schollmeyer, G., Blocher, H., Rodemann, J., Augustin, T. (2023):<br>
+<span class="pub-title">Robust statistical comparison of random variables with locally varying scale of measurement</span><br>
 UAI 2023.
+<span class="tag">CORE A</span>
 </li>
 
 <li>
-Blocher, H., Schollmeyer, G., <em>Jansen, C.</em>, Nalenz, M. (2023):
-<strong>Depth functions for partial orders</strong>.
+Blocher, H., Schollmeyer, G., <em>Jansen, C.</em>, Nalenz, M. (2023):<br>
+<span class="pub-title">Depth functions for partial orders</span><br>
 ISIPTA 2023.
 </li>
 
 <li>
-Rodemann, J., <em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2023):
-<strong>In all Likelihoods: Robust Selection of Pseudo-Labeled Data</strong>.
+Rodemann, J., <em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2023):<br>
+<span class="pub-title">In all Likelihoods: Robust Selection of Pseudo-Labeled Data</span><br>
 ISIPTA 2023.
 </li>
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2023):
-<strong>Multi-target decision making under severe uncertainty</strong>.
+<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2023):<br>
+<span class="pub-title">Multi-target decision making under severe uncertainty</span><br>
 MDAI 2023.
+<span class="tag">CORE B</span>
 </li>
 
 <li>
-<em>Jansen, C.</em>, Blocher, H., Augustin, T., Schollmeyer, G. (2022):
-<strong>Information efficient learning of complex preferences</strong>.
+<em>Jansen, C.</em>, Blocher, H., Augustin, T., Schollmeyer, G. (2022):<br>
+<span class="pub-title">Information efficient learning of complex preferences</span><br>
 International Journal of Approximate Reasoning.
 </li>
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2022):
-<strong>Quantifying degrees of E-admissibility</strong>.
+<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2022):<br>
+<span class="pub-title">Quantifying degrees of E-admissibility</span><br>
 Theory and Decision Library.
 </li>
 
 <li>
-<em>Jansen, C.</em>, Augustin, T. (2022):
-<strong>Decision making with state-dependent preference systems</strong>.
+<em>Jansen, C.</em>, Augustin, T. (2022):<br>
+<span class="pub-title">Decision making with state-dependent preference systems</span><br>
 IPMU 2022.
+<span class="tag">CORE C</span>
 </li>
 
 <li>
-Blocher, H., Schollmeyer, G., <em>Jansen, C.</em> (2022):
-<strong>Statistical models for partial orders</strong>.
+Blocher, H., Schollmeyer, G., <em>Jansen, C.</em> (2022):<br>
+<span class="pub-title">Statistical models for partial orders</span><br>
 IPMU 2022.
+<span class="tag">CORE C</span>
 </li>
 
 <li>
-Baccelli, J., Schollmeyer, G., <em>Jansen, C.</em> (2022):
-<strong>Risk Aversion over Finite Domains</strong>.
+Baccelli, J., Schollmeyer, G., <em>Jansen, C.</em> (2022):<br>
+<span class="pub-title">Risk Aversion over Finite Domains</span><br>
 Theory and Decision.
 </li>
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2018):
-<strong>Decision making under severe uncertainty</strong>.
+<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2018):<br>
+<span class="pub-title">Decision making under severe uncertainty</span><br>
 International Journal of Approximate Reasoning.
 </li>
 
 <li>
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2018):
-<strong>Preference aggregation framework</strong>.
+<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2018):<br>
+<span class="pub-title">Preference aggregation framework</span><br>
 Mathematical Social Sciences.
 </li>
 
 <li>
-<em>Jansen, C.</em>, Augustin, T., Schollmeyer, G. (2017):
-<strong>Decision theory meets linear optimization</strong>.
+<em>Jansen, C.</em>, Augustin, T., Schollmeyer, G. (2017):<br>
+<span class="pub-title">Decision theory meets linear optimization</span><br>
 ECSQARU 2017.
+<span class="tag">CORE C</span>
 </li>
 
 </ol>
 
-<hr>
-
-<h1>Preprints and Work in Progress</h1>
-
-<ol>
-
-<li>
-Rodemann, R., Garces-Arias, E., Luther, C., <em>Jansen, C.</em>, Augustin, T. (2026):
-<strong>A Statistical Case Against Empirical Human–AI Alignment</strong>.
-<br>
-<a href="https://arxiv.org/abs/2502.14581">arXiv link</a>
-</li>
-
-<li>
-Gordienko, P., <em>Jansen, C.</em>, Rodemann, J., Schollmeyer, G. (2026):
-<strong>Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</strong>.
-<br>
-<a href="https://doi.org/10.48550/arXiv.2602.07593">arXiv link</a>
-</li>
-
-<li>
-Gordienko, P., <em>Jansen, C.</em>, Augustin, T., Rechenauer, M. (2026+):
-<strong>Dynamic rationality of aggregated interval probabilities</strong>.
-</li>
-
-<li>
-Dietrich, S., Rodemann, J., <em>Jansen, C.</em> (2026+):
-<strong>Robust pseudo-label selection in semi-supervised learning</strong>.
-</li>
-
-</ol>
-
-<hr>
-
-<h1>Technical Reports and Other Publications</h1>
-
-<ol>
-
-<li>
-Schollmeyer, G., <em>Jansen, C.</em>, Augustin, T. (2017):
-<strong>Detecting stochastic dominance for poset-valued random variables</strong>.
-Technical Report 209.
-</li>
-
-<li>
-Schollmeyer, G., <em>Jansen, C.</em>, Augustin, T. (2017):
-<strong>Multidimensional item response theory based on stochastic dominance</strong>.
-Technical Report 210.
-</li>
-
-<li>
-<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T. (2016):
-<strong>Probabilistic Evaluation of Preference Aggregation</strong>.
-Technical Report 193.
-</li>
-
-<li>
-<em>Jansen, C.</em>, Schollmeyer, G. (2018):
-<strong>What's hot in Mathematical Philosophy?</strong>
-The Reasoner.
-</li>
-
-<li>
-<em>Jansen, C.</em> (2016):
-<strong>Report on MuST 2016</strong>.
-The Reasoner.
-</li>
-
-</ol>
-
-<hr>
-
-<h1>Theses</h1>
-
-<ul>
-
-<li>
-<em>Jansen, C.</em> (2024):
-<strong>Habilitation Thesis</strong> – Decision Theoretic Foundations of Machine Learning.<br>
-<a href="https://arxiv.org/abs/2501.10195">arXiv link</a>
-</li>
-
-<li>
-<em>Jansen, C.</em> (2018):
-<strong>Doctoral Thesis</strong> – Decision making under uncertainty.<br>
-<a href="https://edoc.ub.uni-muenchen.de/22653/">link</a>
-</li>
-
-<li>
-<em>Jansen, C.</em> (2015):
-<strong>Master’s Thesis</strong> – Decision making under partial information.<br>
-<a href="https://epub.ub.uni-muenchen.de/25591/">link</a>
-</li>
-
-<li>
-<em>Jansen, C.</em> (2013):
-<strong>Bachelor’s Thesis</strong> – Boolean algebras and Stone representation theorem.
-</li>
-
-</ul>
+</div>
