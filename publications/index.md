@@ -4,42 +4,26 @@ title: Publications
 permalink: /publications/
 ---
 
-<h1>Publications</h1>
-
-<!-- FILTER BUTTONS -->
-<div class="filter-bar">
-  <button onclick="filterPubs('all')">All</button>
-  <button onclick="filterPubs('journal')">Journals</button>
-  <button onclick="filterPubs('conference')">Conferences</button>
-  <button onclick="filterPubs('preprint')">Preprints</button>
-  <button onclick="filterPubs('book')">Book Chapters</button>
-  <button onclick="filterPubs('thesis')">Theses</button>
-</div>
-
 <style>
-.filter-bar {
-  margin-bottom: 25px;
+.rsection {
+  margin-top: 40px;
 }
 
-.filter-bar button {
-  margin-right: 6px;
-  margin-bottom: 6px;
-  padding: 6px 10px;
-  border: 1px solid #ccc;
-  background: #f8f8f8;
-  cursor: pointer;
-  border-radius: 6px;
+.rsection h2 {
+  margin-top: 30px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 6px;
 }
 
-.pub {
+.pub-item {
   display: flex;
   justify-content: space-between;
   gap: 18px;
-  padding: 16px 0;
+  padding: 14px 0;
   border-bottom: 1px solid #eee;
 }
 
-.pub-left {
+.pub-text {
   flex: 1;
 }
 
@@ -49,125 +33,183 @@ permalink: /publications/
 }
 
 .pub-meta {
+  font-size: 0.92em;
+  color: #444;
+}
+
+.pub-small {
   font-size: 0.85em;
   color: #666;
 }
 
-.pub-tags {
+.tag {
+  display: inline-block;
   font-size: 0.75em;
   color: purple;
-  margin-top: 3px;
+  border: 1px solid #ddd;
+  padding: 2px 6px;
+  border-radius: 5px;
+  margin-left: 6px;
 }
 
-.pub img {
-  width: 85px;
-  height: 85px;
+.pub-img {
+  width: 80px;
+  height: 80px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid #ddd;
 }
-
-details {
-  margin-top: 6px;
-  font-size: 0.9em;
-}
-
-.hidden {
-  display: none;
-}
 </style>
 
-<!-- ===================== -->
-<!-- TEMPLATE BLOCK -->
-<!-- ===================== -->
+<div class="rsection">
 
-<!-- JOURNAL PAPER -->
-<div class="pub journal">
-  <div class="pub-left">
-    <div class="pub-title">TITLE HERE</div>
-    <div class="pub-meta">AUTHORS (YEAR), JOURNAL NAME</div>
-    <div class="pub-tags">SJR / CATEGORY TAGS</div>
+<h2>Peer-Reviewed Publications</h2>
 
-    <details>
-      <summary>Abstract</summary>
-      ABSTRACT TEXT HERE
-    </details>
-  </div>
-  <img src="https://via.placeholder.com/85" alt="paper image">
+<ol>
+
+<li class="pub-item">
+<div class="pub-text">
+<em>Jansen, C.</em>, Schollmeyer, G., Augustin, T., Rodemann, J. (2026):
+<div class="pub-title">Empirical Decision Theory</div>
+Revision under review for <em>Information Sciences</em>.
+<span class="tag">SJR Q1 (Theoretical CS, AI)</span><br>
+<div class="pub-small">
+Preprint: <a href="https://doi.org/10.48550/arXiv.2512.05677">arXiv link</a>
+</div>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+Garces-Arias, E., Blocher, H., Rodemann, J., Assenmacher, M., <em>Jansen, C.</em> (2025):
+<div class="pub-title">Statistical Multicriteria Evaluation of LLM-Generated Text</div>
+INLG 2025 (ACL)
+<span class="tag">CORE B</span>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+Gordienko, P., <em>Jansen, C.</em>, Augustin, T., Rechenauer, M. (2025):
+<div class="pub-title">Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation</div>
+ECSQARU 2025
+<span class="tag">CORE C</span>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+<em>Jansen, C.</em>, Schollmeyer, G., Rodemann, J., Blocher, H., Augustin, T. (2024):
+<div class="pub-title">Statistical Multicriteria Benchmarking via the GSD-Front</div>
+NeurIPS 2024 — <strong>Spotlight</strong>
+<span class="tag">CORE A*</span>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+Rodemann, J., <em>Jansen, C.</em>, Schollmeyer, G. (2024):
+<div class="pub-title">Reciprocal Learning</div>
+NeurIPS 2024
+<span class="tag">CORE A*</span>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+Dietrich, S., Rodemann, J., <em>Jansen, C.</em> (2024):
+<div class="pub-title">Semi-Supervised Learning guided by the Generalized Bayes Rule under Soft Revision</div>
+SMPS 2024
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+Blocher, H., Schollmeyer, S., Nalenz, M., <em>Jansen, C.</em> (2024):
+<div class="pub-title">Comparing Machine Learning Algorithms by Union-Free Generic Depth</div>
+International Journal of Approximate Reasoning 169: 1–23
+<span class="tag">SJR Q1/Q2</span>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+<em>Jansen, C.</em>, Nalenz, M., Schollmeyer, G., Augustin, T. (2023):
+<div class="pub-title">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</div>
+JMLR 24: 1–37
+<span class="tag">SJR Q1</span>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+</ol>
+
 </div>
 
-<!-- CONFERENCE PAPER -->
-<div class="pub conference">
-  <div class="pub-left">
-    <div class="pub-title">TITLE HERE</div>
-    <div class="pub-meta">AUTHORS (YEAR), CONFERENCE</div>
-    <div class="pub-tags">CORE RANK</div>
+<hr>
 
-    <details>
-      <summary>Abstract</summary>
-      ABSTRACT TEXT HERE
-    </details>
-  </div>
-  <img src="https://via.placeholder.com/85" alt="paper image">
+<div class="rsection">
+
+<h2>Preprints and Work in Progress</h2>
+
+<ol>
+
+<li class="pub-item">
+<div class="pub-text">
+Rodemann, R., Garces-Arias, E., Luther, C., <em>Jansen, C.</em> (2026):
+<div class="pub-title">A Statistical Case Against Empirical Human–AI Alignment</div>
+<a href="https://arxiv.org/abs/2502.14581">arXiv</a>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+<li class="pub-item">
+<div class="pub-text">
+Gordienko, P., <em>Jansen, C.</em> (2026):
+<div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
+<a href="https://doi.org/10.48550/arXiv.2602.07593">arXiv</a>
+</div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
+
+</ol>
+
 </div>
 
-<!-- PREPRINT -->
-<div class="pub preprint">
-  <div class="pub-left">
-    <div class="pub-title">TITLE HERE</div>
-    <div class="pub-meta">AUTHORS (YEAR), PREPRINT</div>
+<hr>
 
-    <details>
-      <summary>Abstract</summary>
-      ABSTRACT TEXT HERE
-    </details>
-  </div>
-  <img src="https://via.placeholder.com/85" alt="paper image">
+<div class="rsection">
+
+<h2>Theses</h2>
+
+<ol>
+
+<li class="pub-item">
+<div class="pub-text">
+<em>Jansen, C.</em> (2024):
+<div class="pub-title">Habilitation Thesis</div>
+Decision Theoretic Foundations of Machine Learning<br>
+<a href="https://arxiv.org/abs/2501.10195">link</a>
 </div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
 
-<!-- BOOK CHAPTER -->
-<div class="pub book">
-  <div class="pub-left">
-    <div class="pub-title">TITLE HERE</div>
-    <div class="pub-meta">BOOK TITLE / EDITORS / YEAR</div>
-
-    <details>
-      <summary>Abstract</summary>
-      ABSTRACT OR DESCRIPTION HERE
-    </details>
-  </div>
-  <img src="https://via.placeholder.com/85" alt="book cover">
+<li class="pub-item">
+<div class="pub-text">
+<em>Jansen, C.</em> (2018):
+<div class="pub-title">PhD Thesis</div>
+<a href="https://edoc.ub.uni-muenchen.de/22653/">link</a>
 </div>
+<img class="pub-img" src="https://via.placeholder.com/80">
+</li>
 
-<!-- THESIS -->
-<div class="pub thesis">
-  <div class="pub-left">
-    <div class="pub-title">TITLE HERE</div>
-    <div class="pub-meta">TYPE OF THESIS (PhD / MSc / BSc), UNIVERSITY, YEAR</div>
+</ol>
 
-    <details>
-      <summary>Abstract</summary>
-      ABSTRACT OR SUMMARY HERE
-    </details>
-  </div>
-  <img src="https://via.placeholder.com/85" alt="thesis image">
 </div>
-
-<!-- FILTER SCRIPT -->
-<script>
-function filterPubs(type) {
-  let pubs = document.getElementsByClassName("pub");
-
-  for (let i = 0; i < pubs.length; i++) {
-    if (type === "all") {
-      pubs[i].style.display = "flex";
-    } else {
-      if (pubs[i].classList.contains(type)) {
-        pubs[i].style.display = "flex";
-      } else {
-        pubs[i].style.display = "none";
-      }
-    }
-  }
-}
-</script>
