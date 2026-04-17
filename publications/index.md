@@ -142,6 +142,10 @@ function filterPubs(type) {
     <div class="pub-title">Risk Aversion over Finite Domains</div>
     <div class="pub-meta">Theory and Decision (2022)</div>
     <span class="tag">SJR Q2</span>
+
+    <details><summary>Abstract</summary>
+     We investigate risk attitudes when the underlying domain of payoffs is finite and the payoffs are, in general, not numerical. In such cases, the traditional notions of absolute risk attitudes, that are designed for convex domains of numerical payoffs, are not applicable. We introduce comparative notions of weak and strong risk attitudes that remain applicable. We examine how they are characterized within the rank-dependent utility model, thus including expected utility as a special case. In particular, we characterize strong comparative risk aversion under rank-dependent utility. This is our main result. From this and other findings, we draw two novel conclusions. First, under expected utility, weak and strong comparative risk aversion are characterized by the same condition over finite domains. By contrast, such is not the case under non-expected utility. Second, under expected utility, weak (respectively: strong) comparative risk aversion is characterized by the same condition when the utility functions have finite range and when they have convex range (alternatively, when the payoffs are numerical and their domain is finite or convex, respectively). By contrast, such is not the case under non-expected utility. Thus, considering comparative risk aversion over finite domains leads to a better understanding of the divide between expected and non-expected utility, more generally, the structural properties of the main models of decision-making under risk.
+    </details>
   </div>
   <img src="/assets/11238.webp">
 </div>
