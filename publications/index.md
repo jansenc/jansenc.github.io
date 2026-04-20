@@ -380,8 +380,8 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 
 <div class="pub preprint">
   <div class="pub-left">
-    <div class="pub-title">A Statistical Case Against Empirical Human–AI Alignment</div>
-    <div class="pub-meta">arXiv (2026)</div>
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2502.14581" class="paper-link">A Statistical Case Against Empirical Human–AI Alignment</a></b></div>
+    <div class="pub-meta">arXiv (2025)</div>
 
     <details><summary>Abstract</summary>
     Empirical human-AI alignment aims to make AI systems act in line with observed human behavior. While noble in its goals, we argue that empirical alignment can inadvertently introduce statistical biases that warrant caution. This position paper thus advocates against naive empirical alignment, offering prescriptive alignment and a posteriori empirical alignment as alternatives. We substantiate our principled argument by tangible examples like human-centric decoding of language models.
