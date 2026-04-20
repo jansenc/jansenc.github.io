@@ -100,8 +100,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title"><b>
-  <a href="https://doi.org/10.1016/j.ijar.2024.109166" class="paper-link">Comparing Machine Learning Algorithms by Union-Free Generic Depth</a></b></div>
+    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2024.109166" class="paper-link">Comparing Machine Learning Algorithms by Union-Free Generic Depth</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2024)</div>
     <span class="tag">SJR Q1/Q2</span>
 
@@ -114,7 +113,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title"><a href="https://jmlr.org/papers/v24/22-0902.html" class="paper-link">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</a></b></div>
+    <div class="pub-title"><b><a href="https://jmlr.org/papers/v24/22-0902.html" class="paper-link">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</a></b></div>
     <div class="pub-meta">Journal of Machine Learning Research (2023)</div>
     <span class="tag">SJR Q1</span>
 
@@ -127,7 +126,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title"> <a href="https://doi.org/10.1016/j.ijar.2022.01.016">Information efficient learning of complexly structured preferences: Elicitation procedures and their application to decision making under uncertainty</a><br></div>
+    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2022.01.016">Information efficient learning of complexly structured preferences: Elicitation procedures and their application to decision making under uncertainty</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2022)</div>
     <span class="tag">SJR Q1/Q2</span>
 
