@@ -152,7 +152,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title">Concepts for Decision Making under Severe Uncertainty</div>
+    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2018.04.011" class="paper-link">Concepts for decision making under severe uncertainty with partial ordinal and partial cardinal preferences</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2018)</div>
 <span class="tag">SJR Q1/Q2</span>
 
