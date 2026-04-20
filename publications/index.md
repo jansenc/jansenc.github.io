@@ -236,6 +236,19 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
+    <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-031-65993-5_13" class="paper-link">Semi-supervised Learning Guided by the Generalized Bayes Rule Under Soft Revision</a></b></div>
+    <div class="pub-meta">SMPS 2024</div>
+   
+
+    <details><summary>Abstract</summary>
+      We provide a theoretical and computational investigation of the Gamma-Maximin method with soft revision, which was recently proposed as a robust criterion for pseudo-label selection (PLS) in semi-supervised learning. Opposed to traditional methods for PLS we use credal sets of priors (“generalized Bayes”) to represent the epistemic modeling uncertainty. These latter are then updated by the Gamma-Maximin method with soft revision. We eventually select pseudo-labeled data that are most likely in light of the least favorable distribution from the so updated credal set. We formalize the task of finding optimal pseudo-labeled data w.r.t. the Gamma-Maximin method with soft revision as an optimization problem. A concrete implementation for the class of logistic models then allows us to compare the predictive power of the method with competing approaches. It is observed that the Gamma-Maximin method with soft revision can achieve very promising results, especially when the proportion of labeled data is low.
+    </details>
+  </div>
+  <img src="/assets/smps.webp">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
     <div class="pub-title"><b><a href="https://proceedings.mlr.press/v216/jansen23a.html" class="paper-link">Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement</a></b></div>
     <div class="pub-meta">UAI 2023</div>
     <span class="tag">CORE A</span>
