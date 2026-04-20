@@ -185,7 +185,7 @@ function filterPubs(type) {
 <div class="pub conference">
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05134-9_13" class="paper-link">Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation</a></b></div>
-    <div class="pub-meta">ECSQARU 2017</div>
+    <div class="pub-meta">ECSQARU 2025</div>
     <span class="tag">CORE C</span>
 
     <details><summary>Abstract</summary>
