@@ -441,7 +441,7 @@ Essays in Honor of Teddy Seidenfeld, Theory and Decision Library A (2022)</div>
     <div class="pub-meta">Habilitation thesis, Department of Statistics, LMU Munich (2025)</div>
 
       <details><summary>Abstract</summary>
-    This paper is concerned with decision making using imprecise probabilities and looks at extensions and aspects of the criterion of E-admissibility, as introduced by Levi and extensively studied and advocated by Teddy Seidenfeld. In the first part, we introduce a decision criterion that allows for explicitly modeling how far maximal decisions in Walley’s sense are accepted to deviate from E-admissibility. We also provide an efficient and simple algorithm based on linear programming theory for this criterion. In the second part of the paper, we propose two measures for quantifying what we call the extent of E-admissibility of an E-admissible act, i.e. the size of the set of measures for which the corresponding act maximizes expected utility. The first measure is the maximal diameter of this set, while the second one relates to the maximal barycentric cube that can be inscribed into it. Also here, for both measures, we give linear programming algorithms capable to deal with them. Finally, we discuss some ideas in the context of ordinal decision theory. The paper concludes with a stylized application example illustrating all introduced concepts.
+    This habilitation thesis is cumulative and, therefore, is collecting and connecting research that I (together with several co-authors) have conducted over the last few years. Thus, the absolute core of the work is formed by the ten publications listed on page 5 under the name Contributions 1 to 10. The references to the complete versions of these articles are also found in this list, making them as easily accessible as possible for readers wishing to dive deep into the different research projects. The chapters following this thesis, namely Parts A to C and the concluding remarks, serve to place the articles in a larger scientific context, to (briefly) explain their respective content on a less formal level, and to highlight some interesting perspectives for future research in their respective contexts. Naturally, therefore, the following presentation has neither the level of detail nor the formal rigor that can (hopefully) be found in the papers. The purpose of the following text is to provide the reader an easy and high-level access to this interesting and important research field as a whole, thereby, advertising it to a broader audience.
      </details>
   </div>
   <img src="/assets/arxiv.jpg">
@@ -533,7 +533,7 @@ latter). Again, for all criteria discussed, we illustrate and explain algorithms
 for determining optimal decisions.
      </details>
   </div>
-  <img src="/assets/arxiv.jpg">
+  <img src="/assets/msc.jpg">
 </div>
 
 <div class="pub thesis">
