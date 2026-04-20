@@ -184,6 +184,19 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
+    <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05134-9_13" class="paper-link">Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation</a></b></div>
+    <div class="pub-meta">ECSQARU 2017</div>
+    <span class="tag">CORE C</span>
+
+    <details><summary>Abstract</summary>
+    We propose a framework for probability aggregation based on propositional probability logic. Unlike conventional judgment aggregation, which focuses on static rationality, our model addresses dynamic rationality by ensuring that collective beliefs update consistently with new information. We show that any consensus-compatible and independent aggregation rule on a non-nested agenda is necessarily linear. Furthermore, we provide sufficient conditions for a fair learning process, where individuals initially agree on a specified subset of propositions known as the common ground, and new information is restricted to this shared foundation. This guarantees that updating individual judgments via Bayesian conditioning—whether performed before or after aggregation—yields the same collective belief. A distinctive feature of our framework is its treatment of sequential decision-making, which allows new information to be incorporated progressively through multiple stages while maintaining the established common ground. We illustrate our findings with a running example in a political scenario concerning healthcare and immigration policies.
+     </details>
+  </div>
+  <img src="/assets/ecsqaru.webp">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
     <div class="pub-title"><b><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b1f140eeee243db24e9e006481b91cf1-Abstract-Conference.html" class="paper-link">Statistical Multicriteria Benchmarking via the GSD-Front</a></b></div>
     <div class="pub-meta">NeurIPS 2024 (Spotlight)</div>
     <span class="tag">CORE A*</span>
