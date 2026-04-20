@@ -197,7 +197,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Reciprocal Learning</div>
+    <div class="pub-title"><b><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/0337b41b4e8b2eb5d7ab161ffd42cf3b-Abstract-Conference.html" class="paper-link">Reciprocal Learning</a></b></div>
     <div class="pub-meta">NeurIPS 2024</div>
     <span class="tag">CORE A*</span>
 
