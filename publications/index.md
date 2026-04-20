@@ -390,6 +390,30 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
  <img src="/assets/arxiv.jpg">
 </div>
 
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title"><b><a href="https://doi.org/10.5282/ubm/epub.40450" class="paper-link">A simple descriptive method for multidimensional item response theory based on stochastic dominance</a></b></div>
+    <div class="pub-meta">Department of Statistics: Technical Reports, No.210 (2017)</div>
+
+    <details><summary>Abstract</summary>
+    In this paper we develop a descriptive concept of a (partially) ordinal joint scaling of items and persons in the context of (dichotomous) item response analysis. The developed method has to be understood as a purely descriptive method describing relations among the data observed in a given item response data set, it is not intended to directly measure some presumed underlying latent traits. We establish a hierarchy of pairs of item difficulty and person ability orderings that empirically support each other. The ordering principles we use for the construction are essentially related to the concept of first order stochastic dominance. Our method is able to avoid a paradoxical result of multidimensional item response theory models described in \cite{hooker2009paradoxical}. We introduce our concepts in the language of formal concept analysis. This is due to the fact that our method has some similarities with formal concept analysis and knowledge space theory: Both our methods as well as descriptive techniques used in knowledge space theory (concretely, item tree analysis) could be seen as two different stochastic generalizations of formal implications from formal concept analysis.
+     </details>
+  </div>
+ <img src="/assets/simple.jpg">
+</div>
+
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2502.14581" class="paper-link">A Statistical Case Against Empirical Human–AI Alignment</a></b></div>
+    <div class="pub-meta">arXiv (2025)</div>
+
+    <details><summary>Abstract</summary>
+    Empirical human-AI alignment aims to make AI systems act in line with observed human behavior. While noble in its goals, we argue that empirical alignment can inadvertently introduce statistical biases that warrant caution. This position paper thus advocates against naive empirical alignment, offering prescriptive alignment and a posteriori empirical alignment as alternatives. We substantiate our principled argument by tangible examples like human-centric decoding of language models.
+     </details>
+  </div>
+ <img src="/assets/arxiv.jpg">
+</div>
+
 <!-- ===================================================== -->
 <!-- ================= BOOK CHAPTERS ===================== -->
 <!-- ===================================================== -->
