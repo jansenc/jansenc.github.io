@@ -261,7 +261,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Decision Theory Meets Linear Optimization Beyond Computation</div>
+    <div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-319-61581-3_30" class="paper-link">Decision Theory Meets Linear Optimization Beyond Computation</a></b></div>
     <div class="pub-meta">ECSQARU 2017</div>
     <span class="tag">CORE C</span>
 
