@@ -269,7 +269,7 @@ function filterPubs(type) {
      In this paper we present some first ideas for decision making with agents whose preference system may depend on an uncertain state of nature. Our main formal framework here are commonly scalable state-dependent decision systems. After giving a formal definition of those systems, we introduce and discuss two criteria for defining optimality of acts, both of which are direct generalizations of classical decision criteria under risk. Further, we show how our criteria can be naturally extended to imprecise probability models. More precisely, we consider convex and finitely generated credal sets. Afterwards, we propose linear pogramming-based algorithms for evaluating our criteria and show how the complexity of these algorithms can be reduced by approximations based on clustering the preference systems under similar states. Finally, we demonstrate our methods in a toy example.
      </details>
   </div>
-  <img src="/assets/mdai.webp">
+  <img src="/assets/ipmu.webp">
 </div>
 
 <div class="pub conference">
