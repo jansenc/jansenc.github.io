@@ -114,7 +114,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</div>
+    <div class="pub-title"><a href="https://jmlr.org/papers/v24/22-0902.html" class="paper-link">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</a></b></div>
     <div class="pub-meta">Journal of Machine Learning Research (2023)</div>
     <span class="tag">SJR Q1</span>
 
