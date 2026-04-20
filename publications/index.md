@@ -248,7 +248,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Multi-target Decision Making Under Conditions of Severe Uncertainty</div>
+    <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-031-33498-6_2" class="paper-link">Multi-target Decision Making Under Conditions of Severe Uncertainty</a></b></div>
     <div class="pub-meta">MDAI 2023</div>
     <span class="tag">CORE B</span>
 
