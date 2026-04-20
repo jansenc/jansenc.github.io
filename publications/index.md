@@ -225,6 +225,10 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://proceedings.mlr.press/v215/blocher23a.html" class="paper-link">Depth functions for partial orders with a descriptive analysis of machine learning algorithms</a></b></div>
     <div class="pub-meta">ISIPTA 2023</div>
+
+    <details><summary>Abstract</summary>
+      We propose a framework for descriptively analyzing sets of partial orders based on the concept of depth functions. Despite intensive studies of depth functions in linear and metric spaces, there is very little discussion on depth functions for non-standard data types such as partial orders. We introduce an adaptation of the well-known simplicial depth to the set of all partial orders, the union-free generic (ufg) depth. Moreover, we utilize our ufg depth for a comparison of machine learning algorithms based on multidimensional performance measures. Concretely, we analyze the distribution of different classifier performances over a sample of standard benchmark data sets. Our results promisingly demonstrate that our approach differs substantially from existing benchmarking approaches and, therefore, adds a new perspective to the vivid debate on the comparison of classifiers.
+    </details>
   </div>
   <img src="/assets/pmlr.svg">
 </div>
@@ -233,6 +237,11 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://proceedings.mlr.press/v215/rodemann23a.html" class="paper-link">In all likelihoods: robust selection of pseudo-labeled data</a></b></div>
     <div class="pub-meta">ISIPTA 2023</div>
+
+    <details><summary>Abstract</summary>
+      Self-training is a simple yet effective method within semi-supervised learning. Self-training’s rationale is to iteratively enhance training data by adding pseudo-labeled data. Its generalization performance heavily depends on the selection of these pseudo-labeled data (PLS). In this paper, we render PLS more robust towards the involved modeling assumptions. To this end, we treat PLS as a decision problem, which allows us to introduce a generalized utility function. The idea is to select pseudo-labeled data that maximize a multi-objective utility function. We demonstrate that the latter can be constructed to account for different sources of uncertainty and explore three examples: model selection, accumulation of errors and covariate shift. In the absence of second-order information on such uncertainties, we furthermore consider the generic approach of the generalized Bayesian α
+-cut updating rule for credal sets. We spotlight the application of three of our robust extensions on both simulated and three real-world data sets. In a benchmarking study, we compare these extensions to traditional PLS methods. Results suggest that robustness with regard to model choice can lead to substantial accuracy gains.
+    </details>
   </div>
   <img src="/assets/pmlr.svg">
 </div>
