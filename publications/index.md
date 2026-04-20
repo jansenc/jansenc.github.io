@@ -384,10 +384,11 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 
 <div class="pub book">
   <div class="pub-left">
-    <div class="pub-title">Quantifying Degrees of E-admissibility</div>
-    <div class="pub-meta">Theory and Decision Library A (2022)</div>
+    <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-031-15436-2_13">Quantifying Degrees of E-admissibility in Decision Making with Imprecise Probabilities</a></b></div>
+    <div class="pub-meta">Reflections on the Foundations of Probability and Statistics:
+Essays in Honor of Teddy Seidenfeld, Theory and Decision Library A (2022)</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Research_icon.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/festschrift.webp">
 </div>
 
 <!-- ===================================================== -->
