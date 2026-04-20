@@ -139,7 +139,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title">Risk Aversion over Finite Domains</div>
+    <div class="pub-title"><b><a href="https://link.springer.com/article/10.1007/s11238-021-09847-8" class="paper-link">Risk Aversion over Finite Domains</a></b></div>
     <div class="pub-meta">Theory and Decision (2022)</div>
     <span class="tag">SJR Q2</span>
 
