@@ -274,6 +274,19 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
+    <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-031-08974-9_2" class="paper-link">Statistical Models for Partial Orders Based on Data Depth and Formal Concept Analysis</a></b></div>
+    <div class="pub-meta">IPMU 2022</div>
+    <span class="tag">CORE C</span>
+
+    <details><summary>Abstract</summary>
+     In this paper, we develop statistical models for partial orders where the partially ordered character cannot be interpreted as stemming from the non-observation of data. After discussing some shortcomings of distance based models in this context, we introduce statistical models for partial orders based on the notion of data depth. Here we use the rich vocabulary of formal concept analysis to utilize the notion of data depth for the case of partial orders data. After giving a concise definition of unimodal distributions and unimodal statistical models of partial orders, we present an algorithm for efficiently sampling from unimodal models as well as from arbitrary models based on data depth.
+     </details>
+  </div>
+  <img src="/assets/ipmu.webp">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
     <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-319-61581-3_30" class="paper-link">Decision Theory Meets Linear Optimization Beyond Computation</a></b></div>
     <div class="pub-meta">ECSQARU 2017</div>
     <span class="tag">CORE C</span>
