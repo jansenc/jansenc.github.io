@@ -184,7 +184,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://aclanthology.org/2025.inlg-main.20/">Statistical Multicriteria Evaluation of LLM-Generated Text</a></b></div>
+    <div class="pub-title"><b><a href="https://aclanthology.org/2025.inlg-main.20/" class="paper-link">Statistical Multicriteria Evaluation of LLM-Generated Text</a></b></div>
     <div class="pub-meta">INLG 2025</div>
     <span class="tag">CORE B</span>
 
