@@ -278,8 +278,7 @@ div class="pub conference">
 Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-meta">ISIPTA 2017</div>
     
-
-    <details><summary>Abstract</summary>
+<details><summary>Abstract</summary>
     We introduce three different approaches for decision making under uncertainty, if (I) there is only partial (both cardinal and ordinal) information on an agent’s preferences and (II) the uncertainty about the states of nature is described by a credal set. Particularly, (I) is modeled by a pair of relations, one specifying the partial rank order of the alternatives and the other modeling partial information on the strength of preference. Our first approach relies on criteria that construct complete rankings of the acts based on generalized expectation intervals. Subsequently, we introduce different concepts of global admissibility that construct partial orders by comparing all acts simultaneously. Finally, we define criteria induced by suitable binary relations on the set of acts and, therefore, can be understood as concepts of local admissibility. Whenever suitable, we provide linear programming based algorithms for checking optimality/admissibility of acts.
      </details>
   </div>
