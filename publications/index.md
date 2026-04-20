@@ -126,7 +126,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title"> <a href="https://scholar.google.de/citations?user=Lrh5XU8AAAAJ&hl=de">Google Scholar</a><br></div>
+    <div class="pub-title"> <a href="https://doi.org/10.1016/j.ijar.2022.01.016">Information efficient learning of complexly structured preferences: Elicitation procedures and their application to decision making under uncertainty</a><br></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2022)</div>
     <span class="tag">SJR Q1/Q2</span>
 
