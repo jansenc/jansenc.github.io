@@ -449,21 +449,36 @@ Essays in Honor of Teddy Seidenfeld, Theory and Decision Library A (2022)</div>
 
 <div class="pub thesis">
   <div class="pub-left">
-    <div class="pub-title">PhD Thesis (2018)</div>
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2501.10195" class="paper-link">Contributions to the Decision Theoretic Foundations of Machine Learning and Robust Statistics under Weakly Structured Information</a></b></div>
+    <div class="pub-meta">Habilitation thesis, Department of Statistics, LMU Munich (2025)</div>
+
+      <details><summary>Abstract</summary>
+    This paper is concerned with decision making using imprecise probabilities and looks at extensions and aspects of the criterion of E-admissibility, as introduced by Levi and extensively studied and advocated by Teddy Seidenfeld. In the first part, we introduce a decision criterion that allows for explicitly modeling how far maximal decisions in Walley’s sense are accepted to deviate from E-admissibility. We also provide an efficient and simple algorithm based on linear programming theory for this criterion. In the second part of the paper, we propose two measures for quantifying what we call the extent of E-admissibility of an E-admissible act, i.e. the size of the set of measures for which the corresponding act maximizes expected utility. The first measure is the maximal diameter of this set, while the second one relates to the maximal barycentric cube that can be inscribed into it. Also here, for both measures, we give linear programming algorithms capable to deal with them. Finally, we discuss some ideas in the context of ordinal decision theory. The paper concludes with a stylized application example illustrating all introduced concepts.
+     </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
+  <img src="/assets/arxiv.jpg">
 </div>
 
 <div class="pub thesis">
   <div class="pub-left">
-    <div class="pub-title">Master Thesis (2015)</div>
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2501.10195" class="paper-link">Contributions to the Decision Theoretic Foundations of Machine Learning and Robust Statistics under Weakly Structured Information</a></b></div>
+    <div class="pub-meta">Habilitation thesis, Department of Statistics, LMU Munich (2025)</div>
+
+      <details><summary>Abstract</summary>
+    This paper is concerned with decision making using imprecise probabilities and looks at extensions and aspects of the criterion of E-admissibility, as introduced by Levi and extensively studied and advocated by Teddy Seidenfeld. In the first part, we introduce a decision criterion that allows for explicitly modeling how far maximal decisions in Walley’s sense are accepted to deviate from E-admissibility. We also provide an efficient and simple algorithm based on linear programming theory for this criterion. In the second part of the paper, we propose two measures for quantifying what we call the extent of E-admissibility of an E-admissible act, i.e. the size of the set of measures for which the corresponding act maximizes expected utility. The first measure is the maximal diameter of this set, while the second one relates to the maximal barycentric cube that can be inscribed into it. Also here, for both measures, we give linear programming algorithms capable to deal with them. Finally, we discuss some ideas in the context of ordinal decision theory. The paper concludes with a stylized application example illustrating all introduced concepts.
+     </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
+  <img src="/assets/arxiv.jpg">
 </div>
 
 <div class="pub thesis">
   <div class="pub-left">
-    <div class="pub-title">Bachelor Thesis (2013)</div>
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2501.10195" class="paper-link">Contributions to the Decision Theoretic Foundations of Machine Learning and Robust Statistics under Weakly Structured Information</a></b></div>
+    <div class="pub-meta">Habilitation thesis, Department of Statistics, LMU Munich (2025)</div>
+
+      <details><summary>Abstract</summary>
+    This paper is concerned with decision making using imprecise probabilities and looks at extensions and aspects of the criterion of E-admissibility, as introduced by Levi and extensively studied and advocated by Teddy Seidenfeld. In the first part, we introduce a decision criterion that allows for explicitly modeling how far maximal decisions in Walley’s sense are accepted to deviate from E-admissibility. We also provide an efficient and simple algorithm based on linear programming theory for this criterion. In the second part of the paper, we propose two measures for quantifying what we call the extent of E-admissibility of an E-admissible act, i.e. the size of the set of measures for which the corresponding act maximizes expected utility. The first measure is the maximal diameter of this set, while the second one relates to the maximal barycentric cube that can be inscribed into it. Also here, for both measures, we give linear programming algorithms capable to deal with them. Finally, we discuss some ideas in the context of ordinal decision theory. The paper concludes with a stylized application example illustrating all introduced concepts.
+     </details>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Graduation_cap_icon.svg">
+  <img src="/assets/arxiv.jpg">
 </div>
