@@ -223,7 +223,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Depth Functions for Partial Orders</div>
+    <div class="pub-title"><b><a href="https://proceedings.mlr.press/v215/blocher23a.html" class="paper-link">Depth functions for partial orders with a descriptive analysis of machine learning algorithms</a></b></div>
     <div class="pub-meta">ISIPTA 2023</div>
   </div>
   <img src="/assets/pmlr.svg">
@@ -231,7 +231,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Robust Selection of Pseudo-Labeled Data</div>
+    <div class="pub-title"><b><a href="https://proceedings.mlr.press/v215/rodemann23a.html" class="paper-link">In all likelihoods: robust selection of pseudo-labeled data</a></b></div>
     <div class="pub-meta">ISIPTA 2023</div>
   </div>
   <img src="/assets/pmlr.svg">
