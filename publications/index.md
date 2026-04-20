@@ -184,6 +184,19 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
+    <div class="pub-title"><b><a href="https://aclanthology.org/2025.inlg-main.20/">Statistical Multicriteria Evaluation of LLM-Generated Text</a></b></div>
+    <div class="pub-meta">INLG 2025</div>
+    <span class="tag">CORE B</span>
+
+    <details><summary>Abstract</summary>
+   Assessing the quality of LLM-generated text remains a fundamental challenge in natural language processing. Current evaluation approaches often rely on isolated metrics or simplistic aggregations that fail to capture the nuanced trade-offs between coherence, diversity, fluency, and other relevant indicators of text quality. In this work, we adapt a recently proposed framework for statistical inference based on Generalized Stochastic Dominance (GSD) that addresses three critical limitations in existing benchmarking methodologies: the inadequacy of single-metric evaluation, the incompatibility between cardinal automatic metrics and ordinal human judgments, and the lack of inferential statistical guarantees. The GSD-front approach enables simultaneous evaluation across multiple quality dimensions while respecting their different measurement scales, building upon partial orders of decoding strategies, thus avoiding arbitrary weighting of the involved metrics. By applying this framework to evaluate common decoding strategies against human-generated text, we demonstrate its ability to identify statistically significant performance differences while accounting for potential deviations from the i.i.d. assumption of the sampling design.
+     </details>
+  </div>
+  <img src="/assets/inlg_logo.png">
+</div>
+
+<div class="pub conference">
+  <div class="pub-left">
     <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-032-05134-9_13" class="paper-link">Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation</a></b></div>
     <div class="pub-meta">ECSQARU 2025</div>
     <span class="tag">CORE C</span>
