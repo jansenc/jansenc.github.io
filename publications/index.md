@@ -272,7 +272,7 @@ function filterPubs(type) {
   <img src="/assets/ecsqaru.webp">
 </div>
 
-div class="pub conference">
+<div class="pub conference">
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://proceedings.mlr.press/v62/jansen17a.html" class="paper-link">Concepts for Decision Making under Severe Uncertainty with
 Partial Ordinal and Partial Cardinal Preferences</a></b></div>
