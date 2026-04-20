@@ -97,3 +97,13 @@ nav a:hover {
   font-size: 14px;
   color: #777;
 }
+
+.paper-link {
+  text-decoration: none;   /* removes underline */
+  color: inherit;          /* keeps same color as surrounding text */
+}
+
+.paper-link:hover {
+  text-decoration: none;   /* still no underline on hover */
+  color: #008080;          /* optional: subtle teal hover (fits your style) */
+}
