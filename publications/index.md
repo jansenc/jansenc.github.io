@@ -498,16 +498,39 @@ as well as conservative bounds that are given by the application of Vapnik-Cherv
 
      </details>
   </div>
-  <img src="/assets/arxiv.jpg">
+  <img src="/assets/diss.jpg">
 </div>
 
 <div class="pub thesis">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://arxiv.org/abs/2501.10195" class="paper-link">Contributions to the Decision Theoretic Foundations of Machine Learning and Robust Statistics under Weakly Structured Information</a></b></div>
-    <div class="pub-meta">Habilitation thesis, Department of Statistics, LMU Munich (2025)</div>
+    <div class="pub-title"><b><a href="https://doi.org/10.5282/ubm/epub.25591" class="paper-link">Decision making under partial information using precise and imprecise probabilistic models</a></b></div>
+    <div class="pub-meta">MSc dissertation, Department of Statistics, LMU Munich (2015)</div>
 
       <details><summary>Abstract</summary>
-    This paper is concerned with decision making using imprecise probabilities and looks at extensions and aspects of the criterion of E-admissibility, as introduced by Levi and extensively studied and advocated by Teddy Seidenfeld. In the first part, we introduce a decision criterion that allows for explicitly modeling how far maximal decisions in Walley’s sense are accepted to deviate from E-admissibility. We also provide an efficient and simple algorithm based on linear programming theory for this criterion. In the second part of the paper, we propose two measures for quantifying what we call the extent of E-admissibility of an E-admissible act, i.e. the size of the set of measures for which the corresponding act maximizes expected utility. The first measure is the maximal diameter of this set, while the second one relates to the maximal barycentric cube that can be inscribed into it. Also here, for both measures, we give linear programming algorithms capable to deal with them. Finally, we discuss some ideas in the context of ordinal decision theory. The paper concludes with a stylized application example illustrating all introduced concepts.
+    In this work we recall and discuss optimality criteria for decision making under
+uncertainty with respect to different assumptions concerning the structure of
+the information available. First, an overview of the basic concepts of classi
+cal decision theory is given. Here, particular emphasis is placed on explaining
+classical decision criteria (i.e. criteria for the case that the uncertainty can
+be characterized by using classical probabilistic models) from literature and
+discussing the assumptions underlying them (specifically Bernoulli-, Maximin
+and Hodges & Lehmann-criterion are discussed). Afterwards, in order to es
+tablish the mathematical basis necessary, a brief introduction to the theory of
+linear optimization is provided. Thereby, particular interest lies in recalling
+theoretical results concerning the resolvability of linear optimization problems.
+Subsequently, we demonstrate how linear optimization theory can be used to
+construct algorithms for determining optimal decisions (with respect to the
+classical criteria) in finite decision problems. Examples of concrete decision
+problems are given. Next, we give some (theoretical and practical) examples
+that support the idea of introducing imprecise probabilistic models to decision
+theory. Accordingly, two common generalizations of classical probability the
+ory are explained: Credal sets and interval probability. Connections of the
+two concepts are shown up. Finally, we recall criteria for optimal decision
+making, if the uncertainty is characterized by a credal set or an interval proba
+bility respectively (specifically interval dominance, E-admissibility, maximality,
+Γ-Maximin-criterion, Γ-Maximax-criterion and a criterion combining the two
+latter). Again, for all criteria discussed, we illustrate and explain algorithms
+for determining optimal decisions.
      </details>
   </div>
   <img src="/assets/arxiv.jpg">
