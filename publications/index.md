@@ -184,7 +184,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Statistical Multicriteria Benchmarking via the GSD-Front</div>
+    <div class="pub-title"><b><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b1f140eeee243db24e9e006481b91cf1-Abstract-Conference.html" class="paper-link">Statistical Multicriteria Benchmarking via the GSD-Front</a></b></div>
     <div class="pub-meta">NeurIPS 2024 (Spotlight)</div>
     <span class="tag">CORE A*</span>
 
