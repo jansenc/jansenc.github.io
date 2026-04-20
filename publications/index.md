@@ -210,7 +210,7 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title">Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement</div>
+    <div class="pub-title"><b><a href="https://proceedings.mlr.press/v216/jansen23a.html" class="paper-link">Robust Statistical Comparison of Random Variables with Locally Varying Scale of Measurement</a></b></div>
     <div class="pub-meta">UAI 2023</div>
     <span class="tag">CORE A</span>
 
