@@ -359,7 +359,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-title">Empirical Decision Theory</div>
     <div class="pub-meta">arXiv (2026)</div>
 
-  details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
     We introduce three different approaches for decision making under uncertainty, if (I) there is only partial (both cardinal and ordinal) information on an agent’s preferences and (II) the uncertainty about the states of nature is described by a credal set. Particularly, (I) is modeled by a pair of relations, one specifying the partial rank order of the alternatives and the other modeling partial information on the strength of preference. Our first approach relies on criteria that construct complete rankings of the acts based on generalized expectation intervals. Subsequently, we introduce different concepts of global admissibility that construct partial orders by comparing all acts simultaneously. Finally, we define criteria induced by suitable binary relations on the set of acts and, therefore, can be understood as concepts of local admissibility. Whenever suitable, we provide linear programming based algorithms for checking optimality/admissibility of acts.
      </details>
   </div>
@@ -371,7 +371,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
     <div class="pub-meta">arXiv (2026)</div>
   
-  details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
     We introduce three different approaches for decision making under uncertainty, if (I) there is only partial (both cardinal and ordinal) information on an agent’s preferences and (II) the uncertainty about the states of nature is described by a credal set. Particularly, (I) is modeled by a pair of relations, one specifying the partial rank order of the alternatives and the other modeling partial information on the strength of preference. Our first approach relies on criteria that construct complete rankings of the acts based on generalized expectation intervals. Subsequently, we introduce different concepts of global admissibility that construct partial orders by comparing all acts simultaneously. Finally, we define criteria induced by suitable binary relations on the set of acts and, therefore, can be understood as concepts of local admissibility. Whenever suitable, we provide linear programming based algorithms for checking optimality/admissibility of acts.
      </details>
   </div>
@@ -383,7 +383,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-title">A Statistical Case Against Empirical Human–AI Alignment</div>
     <div class="pub-meta">arXiv (2026)</div>
 
-    details><summary>Abstract</summary>
+    <details><summary>Abstract</summary>
     Empirical human-AI alignment aims to make AI systems act in line with observed human behavior. While noble in its goals, we argue that empirical alignment can inadvertently introduce statistical biases that warrant caution. This position paper thus advocates against naive empirical alignment, offering prescriptive alignment and a posteriori empirical alignment as alternatives. We substantiate our principled argument by tangible examples like human-centric decoding of language models.
      </details>
   </div>
