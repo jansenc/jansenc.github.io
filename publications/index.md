@@ -404,14 +404,14 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 
 <div class="pub preprint">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://arxiv.org/abs/2502.14581" class="paper-link">A Statistical Case Against Empirical Human–AI Alignment</a></b></div>
-    <div class="pub-meta">arXiv (2025)</div>
+    <div class="pub-title"><b><a href="https://doi.org/10.5282/ubm/epub.40416" class="paper-link">Detecting stochastic dominance for poset-valued random variables as an example of linear programming on closure systems</a></b></div>
+    <div class="pub-meta">Department of Statistics: Technical Reports, No.209 (2017)</div>
 
     <details><summary>Abstract</summary>
-    Empirical human-AI alignment aims to make AI systems act in line with observed human behavior. While noble in its goals, we argue that empirical alignment can inadvertently introduce statistical biases that warrant caution. This position paper thus advocates against naive empirical alignment, offering prescriptive alignment and a posteriori empirical alignment as alternatives. We substantiate our principled argument by tangible examples like human-centric decoding of language models.
+    In this paper we develop a linear programming method for detecting stochastic dominance for random variables with values in a partially ordered set (poset) based on the upset-characterization of stochastic dominance. The proposed detection-procedure is based on a descriptively interpretable statistic, namely the maximal probability-difference of an upset. We show how our method is related to the general task of maximizing a linear function on a closure system. Since closure systems are describable via their valid formal implications, we can use here ingredients of formal concept analysis. We also address the question of inference via resampling and via conservative bounds given by the application of Vapnik-Chervonenkis theory, which also allows for an adequate pruning of the envisaged closure system that allows for the regularization of the test statistic (by paying a price of less conceptual rigor). We illustrate the developed methods by applying them to a variety of data examples, concretely to multivariate inequality analysis, item impact and differential item functioning in item response theory and to the analysis of distributional differences in spatial statistics. The power of regularization is illustrated with a data example in the context of cognitive diagnosis models.
      </details>
   </div>
- <img src="/assets/arxiv.jpg">
+ <img src="/assets/detecting.jpg">
 </div>
 
 <!-- ===================================================== -->
