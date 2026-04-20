@@ -356,7 +356,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 
 <div class="pub preprint">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://arxiv.org/abs/2512.05677">Empirical Decision Theory</a></b></div>
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2512.05677" class="paper-link">Empirical Decision Theory</a></b></div>
     <div class="pub-meta">arXiv (2026)</div>
 
   <details><summary>Abstract</summary>
@@ -368,11 +368,11 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 
 <div class="pub preprint">
   <div class="pub-left">
-    <div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2602.07593" class="paper-link">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</a></b></div>
     <div class="pub-meta">arXiv (2026)</div>
   
   <details><summary>Abstract</summary>
-    We introduce three different approaches for decision making under uncertainty, if (I) there is only partial (both cardinal and ordinal) information on an agent’s preferences and (II) the uncertainty about the states of nature is described by a credal set. Particularly, (I) is modeled by a pair of relations, one specifying the partial rank order of the alternatives and the other modeling partial information on the strength of preference. Our first approach relies on criteria that construct complete rankings of the acts based on generalized expectation intervals. Subsequently, we introduce different concepts of global admissibility that construct partial orders by comparing all acts simultaneously. Finally, we define criteria induced by suitable binary relations on the set of acts and, therefore, can be understood as concepts of local admissibility. Whenever suitable, we provide linear programming based algorithms for checking optimality/admissibility of acts.
+  Modern benchmarks such as HELM MMLU account for multiple metrics like accuracy, robustness and efficiency. When trying to turn these metrics into a single ranking, natural aggregation procedures can become incoherent or unstable to changes in the model set. We formalize this aggregation as a social choice problem where each metric induces a preference ranking over models on each dataset, and a benchmark operator aggregates these votes across metrics. While prior work has focused on Arrow's impossibility result, we argue that the impossibility often originates from pathological examples and identify sufficient conditions under which these disappear, and meaningful multi-criteria benchmarking becomes possible. In particular, we deal with three restrictions on the combinations of rankings and prove that on single-peaked, group-separable and distance-restricted preferences, the benchmark operator allows for the construction of well-behaved rankings of the involved models. Empirically, we investigate several modern benchmark suites like HELM MMLU and verify which structural conditions are fulfilled on which benchmark problems.
      </details>
   </div>
   <img src="/assets/arxiv.jpg">
