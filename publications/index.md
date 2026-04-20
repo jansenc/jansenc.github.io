@@ -100,7 +100,8 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title">Comparing Machine Learning Algorithms by Union-Free Generic Depth</div>
+    <div class="pub-title"><b>
+  <a href="https://doi.org/10.48550/arXiv.2512.05677" class="paper-link">Comparing Machine Learning Algorithms by Union-Free Generic Depth</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2024)</div>
     <span class="tag">SJR Q1/Q2</span>
 
