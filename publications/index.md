@@ -166,7 +166,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title">A Probabilistic Evaluation Framework for Preference Aggregation</div>
+    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.mathsocsci.2018.09.001" class="paper-link">A probabilistic evaluation framework for preference aggregation reflecting group homogeneity</a></b></div>
     <div class="pub-meta">Mathematical Social Sciences (2018)</div>
    <span class="tag">SJR Q2</span>
 
