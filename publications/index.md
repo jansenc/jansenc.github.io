@@ -359,7 +359,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-title">Empirical Decision Theory</div>
     <div class="pub-meta">arXiv (2026)</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+  <img src="/assets/arxiv.svg">
 </div>
 
 <div class="pub preprint">
@@ -367,7 +367,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-title">Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</div>
     <div class="pub-meta">arXiv (2026)</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+  <img src="/assets/arxiv.svg">
 </div>
 
 <div class="pub preprint">
@@ -375,7 +375,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     <div class="pub-title">A Statistical Case Against Empirical Human–AI Alignment</div>
     <div class="pub-meta">arXiv (2026)</div>
   </div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arxiv_logo_2022.svg">
+ <img src="/assets/arxiv.svg">
 </div>
 
 <!-- ===================================================== -->
