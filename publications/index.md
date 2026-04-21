@@ -556,7 +556,19 @@ for determining optimal decisions.
     <div class="pub-meta">The Reasoner (2018)</div>
 
       <details><summary>Abstract</summary>
-    An impreciseprobabilitymodel P is called two-monotone  if  it  satisfies  the inequality P(A)+P(B)≤P(A∩B)+P(A∪B) for arbitrary events A and B.  Amuch   quoted   phrase   from Peter  Walley, the luminous figure   in   imprecise   probabilities,   is  that  he  doesn’t “...know   any   rationality   argument   for   two-monotonicity, beyond its computational convenience”. And obviously: Using a  model P that  is  two-monotone  is  computationally  very convenient,  since  for  instance  lower  and  upper  expectations of  arbitrary  (bounded)  gambles  can  be  computed  by  closedformulas. So,  more  interestingly:   What  about  the  second part of the statement, the “beyond” part?
+    An imprecise probabilitymodel P is called two-monotone  if  it  satisfies  the inequality P(A)+P(B)≤P(A∩B)+P(A∪B) for arbitrary events A and B.  Amuch   quoted   phrase   from Peter  Walley, the luminous figure   in   imprecise   probabilities,   is  that  he  doesn’t “...know   any   rationality   argument   for   two-monotonicity, beyond its computational convenience”. And obviously: Using a  model P that  is  two-monotone  is  computationally  very convenient,  since  for  instance  lower  and  upper  expectations of  arbitrary  (bounded)  gambles  can  be  computed  by  closed formulas. So,  more  interestingly:   What  about  the  second part of the statement, the “beyond” part?
+     </details>
+  </div>
+  <img src="/assets/reasoner.png">
+</div>
+
+<div class="pub other">
+  <div class="pub-left">
+    <div class="pub-title"><b><a href="https://riviste.unimi.it/index.php/thereasoner/issue/view/2303" class="paper-link">MuST 9: Evidence, Inference, and Risk</a></b></div>
+    <div class="pub-meta">The Reasoner (2016)</div>
+
+      <details><summary>Abstract</summary>
+   A short report on the nonth volume of the Munich-Sidney-Tilburg conference that has taken place at LMU Munich in 2016.
      </details>
   </div>
   <img src="/assets/reasoner.png">
