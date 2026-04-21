@@ -9,6 +9,10 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
   <li>
+    I was invited to give a talk at the <strong>GOR AG FMI & FNAI Workshop 2026</strong>.
+    Access the paper <a href="https://doi.org/10.48550/arXiv.2602.07593">here</a>.
+  </li>
+  <li>
     New preprint: <strong>Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</strong>.
     Access the paper <a href="https://doi.org/10.48550/arXiv.2602.07593">here</a>.
   </li>
