@@ -552,7 +552,7 @@ for determining optimal decisions.
 
 <div class="pub other">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://riviste.unimi.it/index.php/thereasoner/issue/view/2363/642" class="paper-link">What’s hot in Mathematical Philosophy?</a></b></div>
+    <div class="pub-title"><b><a href="https://riviste.unimi.it/index.php/thereasoner/issue/view/2363" class="paper-link">What’s hot in Mathematical Philosophy?</a></b></div>
     <div class="pub-meta">The Reasoner (2025)</div>
 
       <details><summary>Abstract</summary>
