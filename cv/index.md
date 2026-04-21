@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <h2>Short CV:</h2>
-(click here for a long pdf version)
+(click <a href="/assets/cv_cj.pdf">here</a> for a long pdf version)
 
 <div class="cv-entry">
   <h3>Since June 2024</h3>
