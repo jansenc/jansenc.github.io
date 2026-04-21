@@ -18,6 +18,7 @@ permalink: /news/
   </li>
 </ul>
 
+<details><summary>Older News</summary>
 <h2>2025</h2>
 <ul>
   <li>
@@ -142,3 +143,4 @@ permalink: /news/
   <li>Preprints on state-dependent preferences and partial orders.</li>
   <li>Paper in Theory and Decision on risk aversion over finite domains.</li>
 </ul>
+</details>
