@@ -10,11 +10,11 @@ permalink: /news/
 <ul>
   <li>
     New preprint: <strong>Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</strong>.
-    Access the paper <a href="#">here</a>.
+    Access the paper <a href="https://doi.org/10.48550/arXiv.2602.07593">here</a>.
   </li>
   <li>
     New preprint on <strong>Empirical Decision Theory</strong>.
-    Access it <a href="#">here</a>.
+    Access it <a href="https://doi.org/10.48550/arXiv.2512.05677">here</a>.
   </li>
 </ul>
 
