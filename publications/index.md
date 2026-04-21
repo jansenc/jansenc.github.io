@@ -14,6 +14,7 @@ permalink: /publications/
   <button onclick="filterPubs('preprint')">Preprints</button>
   <button onclick="filterPubs('book')">Book Chapters</button>
   <button onclick="filterPubs('thesis')">Theses</button>
+  <button onclick="filterPubs('thesis')">Other</button>
 </div>
 
 <style>
