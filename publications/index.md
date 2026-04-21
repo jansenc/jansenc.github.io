@@ -559,5 +559,5 @@ for determining optimal decisions.
     An impreciseprobabilitymodel P is called two-monotone  if  it  satisfies  the inequality P(A)+P(B)≤P(A∩B)+P(A∪B) for arbitrary events A and B.  Amuch   quoted   phrase   from Peter  Walley, the luminous figure   in   imprecise   probabilities,   is  that  he  doesn’t “...know   any   rationality   argument   for   two-monotonicity, beyond its computational convenience”. And obviously: Using a  model P that  is  two-monotone  is  computationally  very convenient,  since  for  instance  lower  and  upper  expectations of  arbitrary  (bounded)  gambles  can  be  computed  by  closedformulas. So,  more  interestingly:   What  about  the  second part of the statement, the “beyond” part?
      </details>
   </div>
-  <img src="/assets/lmu.jpg">
+  <img src="/assets/reasoner.png">
 </div>
