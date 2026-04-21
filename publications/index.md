@@ -498,7 +498,7 @@ as well as conservative bounds that are given by the application of Vapnik-Cherv
 
      </details>
   </div>
-  <img src="/assets/diss.jpg">
+  <img src="/assets/lmu.jpg">
 </div>
 
 <div class="pub thesis">
@@ -533,7 +533,7 @@ latter). Again, for all criteria discussed, we illustrate and explain algorithms
 for determining optimal decisions.
      </details>
   </div>
-  <img src="/assets/msc.jpg">
+  <img src="/assets/lmu.jpg">
 </div>
 
 <div class="pub thesis">
@@ -541,5 +541,5 @@ for determining optimal decisions.
     <div class="pub-title"><b>Boole'sche Algebren und der Stone'sche Darstellungssatz</b></div>
     <div class="pub-meta">BSc dissertation, Department of Mathematics, LMU Munich (2013)</div>
   </div>
-  <img src="/assets/arxiv.jpg">
+  <img src="/assets/lmu.jpg">
 </div>
