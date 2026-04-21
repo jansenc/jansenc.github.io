@@ -444,7 +444,7 @@ Essays in Honor of Teddy Seidenfeld, Theory and Decision Library A (2022)</div>
     This habilitation thesis is cumulative and, therefore, is collecting and connecting research that I (together with several co-authors) have conducted over the last few years. Thus, the absolute core of the work is formed by the ten publications listed on page 5 under the name Contributions 1 to 10. The references to the complete versions of these articles are also found in this list, making them as easily accessible as possible for readers wishing to dive deep into the different research projects. The chapters following this thesis, namely Parts A to C and the concluding remarks, serve to place the articles in a larger scientific context, to (briefly) explain their respective content on a less formal level, and to highlight some interesting perspectives for future research in their respective contexts. Naturally, therefore, the following presentation has neither the level of detail nor the formal rigor that can (hopefully) be found in the papers. The purpose of the following text is to provide the reader an easy and high-level access to this interesting and important research field as a whole, thereby, advertising it to a broader audience.
      </details>
   </div>
-  <img src="/assets/arxiv.jpg">
+  <img src="/assets/lmu.jpg">
 </div>
 
 <div class="pub thesis">
