@@ -357,6 +357,19 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 
 <div class="pub preprint">
   <div class="pub-left">
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2605.10495" class="paper-link">Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</a></b></div>
+    <div class="pub-meta">arXiv (2026)</div>
+
+  <details><summary>Abstract</summary>
+    This paper develops a quantitative framework to assess the robustness of Bayes-optimal decisions in finite decision problems under model uncertainty. We introduce two complementary stability notions for acts: the robustness radius, measuring the largest perturbation of a reference prior under which an act remains Bayes-optimal, and the contamination need, quantifying the minimal perturbation required for an act to become Bayes-optimal under some nearby prior. Both concepts are characterized via linear programming formulations and computed efficiently using bisection methods exploiting monotonicity properties. Building on these stability measures, we propose a cost-adjusted stability criterion that integrates robustness considerations with act-specific selection costs, yielding a parametric family of decision rules indexed by a regularization parameter. We analyze how optimal act selection evolves along this parameter and derive selection paths that reveal structural transitions between stability-driven and cost-driven regimes. The framework is applied to a portfolio choice problem under uncertainty between different economic regimes. Concretely, using data on historical ETF returns, we compute robustness and contamination profiles for six portfolio strategies and analyze their behavior under heterogeneous belief specifications. The results illustrate that robustness-based selection refines classical expected utility by accounting for prior misspecification.
+     </details>
+  </div>
+  <img src="/assets/arxiv.jpg">
+</div>
+
+
+<div class="pub preprint">
+  <div class="pub-left">
     <div class="pub-title"><b><a href="https://arxiv.org/abs/2512.05677" class="paper-link">Empirical Decision Theory</a></b></div>
     <div class="pub-meta">arXiv (2026)</div>
 
