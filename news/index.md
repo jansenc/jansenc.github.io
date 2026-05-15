@@ -9,6 +9,13 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
   <li>
+    I was selected as one of the <strong>Gold Reviewers</strong> of ICML 2026.
+  </li>
+  <li>
+    New preprint: <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong>.
+    Access the paper <a href="https://arxiv.org/abs/2605.10495">here</a>.
+  </li>
+  <li>
     I was invited to give a talk at the <strong>GOR AG FMI & FNAI Workshop 2026</strong>.
     Check out the slides <a href="/assets/gor.pdf">here</a>.
   </li>
