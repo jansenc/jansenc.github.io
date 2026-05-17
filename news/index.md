@@ -9,6 +9,9 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
   <li>
+    We are editing a <strong>special issue</strong> of Elsevier's <a href="https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning">International Journal of Approximate Reasoning</a>. The SI, named <strong>Papers in Memory of Thomas Augustin</strong>, seeks original contribution celebrating the scientific heritage of our friend and Mentor Thomas Augustin, who tragically passed away in January 2026. Please find all relevant information <a href="https://www.sciencedirect.com/special-issue/333213/papers-in-memory-of-thomas-augustin">here</a>. 
+  </li>
+  <li>
     I was selected as one of the <strong>Gold Reviewers</strong> of ICML 2026.
   </li>
   <li>
