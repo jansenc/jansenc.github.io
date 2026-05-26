@@ -354,6 +354,17 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
 <!-- ===================================================== -->
 <!-- ================= PREPRINTS ========================= -->
 <!-- ===================================================== -->
+<div class="pub preprint">
+  <div class="pub-left">
+    <div class="pub-title"><b><a href="https://arxiv.org/abs/2605.23628" class="paper-link">How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness</a></b></div>
+    <div class="pub-meta">arXiv (2026)</div>
+
+  <details><summary>Abstract</summary>
+    Multi-task benchmarks have become a central pillar of machine learning research, yet their growing influence has incentivised benchmark gaming -- strategic actions taken to improve the leaderboard rank of a specific model. Treating datasets as voters and models as candidates, we consider benchmark-specific training -- the inclusion of benchmark data in training -- as a form of election manipulation. For any ordinal benchmark, the problem of choosing datasets to train on so that a target model becomes top-ranked corresponds to shift bribery, a class of manipulation problems from computational social choice. Leveraging this identification, we show that the benchmark-specific training problem is NP-hard under Borda count and mean win rate. Complementing this worst-case perspective, we introduce the instance-level robustness, the minimum number of datasets a model developer must include in training to top a given leaderboard, and derive expressions for it under arithmetic mean, median, mean win rate and pairwise majority. We evaluate these expressions on MMLU under HELM and on BIG-Bench Hard (BBH) under the Open LLM Leaderboard. Across both suites, mean win rate is hardest to manipulate: this gap is clear on BBH (24 tasks, 4507 models), where its median robustness is 22 tasks (92%), compared with 13 (54%) under arithmetic mean and 12 (50%) under median and pairwise majority.
+     </details>
+  </div>
+  <img src="/assets/arxiv.jpg">
+</div>
 
 <div class="pub preprint">
   <div class="pub-left">
