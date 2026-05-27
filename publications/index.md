@@ -116,7 +116,7 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://jmlr.org/papers/v24/22-0902.html" class="paper-link">Statistical Comparisons of Classifiers by Generalized Stochastic Dominance</a></b></div>
     <div class="pub-meta">Journal of Machine Learning Research (2023)</div>
-    <span class="tag">SJR Q1 (AI, Stats nd Probability)</span>
+    <span class="tag">SJR Q1 (AI, Stats and Probability)</span>
 
     <details><summary>Abstract</summary>
       Although being a crucial question for the development of machine learning algorithms, there is still no consensus on how to compare classifiers over multiple data sets with respect to several criteria. Every comparison framework is confronted with (at least) three fundamental challenges: the multiplicity of quality criteria, the multiplicity of data sets and the randomness of the selection of data sets. In this paper, we add a fresh view to the vivid debate by adopting recent developments in decision theory. Based on so-called preference systems, our framework ranks classifiers by a generalized concept of stochastic dominance, which powerfully circumvents the cumbersome, and often even self-contradictory, reliance on aggregates. Moreover, we show that generalized stochastic dominance can be operationalized by solving easy-to-handle linear programs and moreover statistically tested employing an adapted two-sample observation-randomization test. This yields indeed a powerful framework for the statistical comparison of classifiers over multiple data sets with respect to multiple quality criteria simultaneously. We illustrate and investigate our framework in a simulation study and with a set of standard benchmark data sets.
@@ -142,7 +142,7 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://link.springer.com/article/10.1007/s11238-021-09847-8" class="paper-link">Risk Aversion over Finite Domains</a></b></div>
     <div class="pub-meta">Theory and Decision (2022)</div>
-    <span class="tag">SJR Q2</span>
+    <span class="tag">SJR Q1 (Social Sciences, Econ and Finance)</span>
 
     <details><summary>Abstract</summary>
      We investigate risk attitudes when the underlying domain of payoffs is finite and the payoffs are, in general, not numerical. In such cases, the traditional notions of absolute risk attitudes, that are designed for convex domains of numerical payoffs, are not applicable. We introduce comparative notions of weak and strong risk attitudes that remain applicable. We examine how they are characterized within the rank-dependent utility model, thus including expected utility as a special case. In particular, we characterize strong comparative risk aversion under rank-dependent utility. This is our main result. From this and other findings, we draw two novel conclusions. First, under expected utility, weak and strong comparative risk aversion are characterized by the same condition over finite domains. By contrast, such is not the case under non-expected utility. Second, under expected utility, weak (respectively: strong) comparative risk aversion is characterized by the same condition when the utility functions have finite range and when they have convex range (alternatively, when the payoffs are numerical and their domain is finite or convex, respectively). By contrast, such is not the case under non-expected utility. Thus, considering comparative risk aversion over finite domains leads to a better understanding of the divide between expected and non-expected utility, more generally, the structural properties of the main models of decision-making under risk.
@@ -155,7 +155,7 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2018.04.011" class="paper-link">Concepts for decision making under severe uncertainty with partial ordinal and partial cardinal preferences</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2018)</div>
-<span class="tag">SJR Q1/Q2</span>
+<span class="tag">SJR Q2 (AI, Applied Math, Theoretical CS)</span>
 
     <details><summary>Abstract</summary>
       We introduce three different approaches for decision making under uncertainty if (I) there is only partial (both cardinally and ordinally scaled) information on an agent's preferences and (II) the uncertainty about the states of nature is described by a credal set (or some other imprecise probabilistic model). Particularly, situation (I) is modeled by a pair of binary relations, one specifying the partial rank order of the alternatives and the other modeling partial information on the strength of preference. Our first approach relies on decision criteria constructing complete rankings of the available acts that are based on generalized expectation intervals. Subsequently, we introduce different concepts of global admissibility that construct partial orders between the available acts by comparing them all simultaneously. Finally, we define criteria induced by suitable binary relations on the set of acts and, therefore, can be understood as concepts of local admissibility. For certain criteria, we provide linear programming based algorithms for checking optimality/admissibility of acts. Additionally, the paper includes a discussion of a prototypical situation by means of a toy example.
@@ -169,7 +169,7 @@ function filterPubs(type) {
   <div class="pub-left">
     <div class="pub-title"><b><a href="https://doi.org/10.1016/j.mathsocsci.2018.09.001" class="paper-link">A probabilistic evaluation framework for preference aggregation reflecting group homogeneity</a></b></div>
     <div class="pub-meta">Mathematical Social Sciences (2018)</div>
-   <span class="tag">SJR Q2</span>
+   <span class="tag">SJR Q2 (Social Sciences)</span>
 
     <details><summary>Abstract</summary>
       Groups differ in the homogeneity of their members’ preferences. Reflecting this, we propose a probabilistic criterion for evaluating and comparing the adequateness of preference aggregation procedures that takes into account information on the considered group’s homogeneity structure. Further, we discuss two approaches for approximating our criterion if information is only imperfectly given and show how to estimate these approximations from data. As a preparation, we elaborate some general minimal requirements for measuring homogeneity and discuss a specific proposal for a homogeneity measure. Finally, we investigate our framework by comparing aggregation rules in a simulation study.
