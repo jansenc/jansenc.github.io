@@ -9,6 +9,9 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
    <li>
+    Our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong> was accepted at the International Conference of Modelling Dercisions for Artificial Intelligence (MDAI 2026). Access the preprint <a href="https://arxiv.org/abs/2605.10495">here</a>.
+  </li>
+   <li>
     New preprint: <strong>How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness</strong>.
     Access the paper <a href="https://arxiv.org/abs/2605.23628">here</a>.
   </li>
@@ -17,10 +20,6 @@ permalink: /news/
   </li>
   <li>
     I was selected as one of the <strong>Gold Reviewers</strong> of ICML 2026.
-  </li>
-  <li>
-    New preprint: <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong>.
-    Access the paper <a href="https://arxiv.org/abs/2605.10495">here</a>.
   </li>
   <li>
     I was invited to give a talk at the <strong>GOR AG FMI & FNAI Workshop 2026</strong>.
