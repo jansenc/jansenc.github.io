@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-Hi there! I'm a tenured Assistant Professor in Data Science at the School of Computing & Communications (SCC) of Lancaster University Leipzig.
+Hi there! I'm a tenured Assistant Professor in Data Science at the School of Computing & Communications (SCC) of Lancaster University Leipzig. There, I am the (Co-)Director of Research for SCC as well as the Programme Director of the MSc Data Science.
 
 Before, I was a  PostDoc at the Department of Statistics of LMU Munich, where I finished my habilitation in January 2025 with a thesis on ML under weakly structured information. During summer semster 2022 I was appointed as an interim W2-professor for Statistics . In 2018, I earned a Ph.D. in Statistics with a thesis on decision making in complex information settings at the same Department (supervisor: Thomas Augustin).
 
