@@ -391,7 +391,7 @@ Partial Ordinal and Partial Cardinal Preferences</a></b></div>
     Analyzing decision problems under uncertainty commonly relies on idealizing assumptions about the describability of the world, with the most prominent examples being the closed world and the small world assumption. Most assumptions are operationalized by introducing states of the world, conditional on which the decision situation can be analyzed without any remaining uncertainty. Conversely, most classical decision-theoretic approaches are not applicable if the states of the world are inaccessible. We propose a decision model that retains the appeal and simplicity of the original theory, but completely overcomes the need to specify the states of the world explicitly. The main idea of our approach is to address decision problems in a radically empirical way: instead of specifying states and consequences prior to the decision analysis, we only assume a protocol of observed act--consequence pairs as model primitives. We show how optimality in such empirical decision problems can be addressed by using protocol-based empirical choice functions and discuss three approaches for deriving inferential guarantees: (I) consistent statistical estimation of choice sets, (II) consistent statistical testing of choice functions with robustness guarantees, and (III) direct inference for empirical choice functions using credal sets. We illustrate our theory with a proof-of-concept application comparing different prompting strategies in generative AI models.
      </details>
   </div>
-  <img src="/assets/arxiv.jpg">
+  <img src="/assets/X00200255.jpg">
 </div>
 
 <div class="pub preprint">
