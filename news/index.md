@@ -9,6 +9,10 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
    <li>
+    Our paper <strong>Empirical Decision Theory</strong> was accepted for publication in <strong>Information Sciences</strong>. 
+    Access the preprint <a href="https://doi.org/10.48550/arXiv.2512.05677">here</a>.
+  </li>
+   <li>
     Our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong> was accepted at the <strong>International Conference of Modelling Decisions for Artificial Intelligence (MDAI 2026)</strong>. Access the preprint <a href="https://arxiv.org/abs/2605.10495">here</a>.
   </li>
    <li>
@@ -29,10 +33,6 @@ permalink: /news/
     New preprint: <strong>Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking</strong>.
     Access the paper <a href="https://doi.org/10.48550/arXiv.2602.07593">here</a>.
   </li>
-  <li>
-    New preprint on <strong>Empirical Decision Theory</strong>.
-    Access it <a href="https://doi.org/10.48550/arXiv.2512.05677">here</a>.
-  </li>
 </ul>
 
 <details><summary>Older News</summary>
@@ -48,7 +48,7 @@ permalink: /news/
     <ul>
       <li>Empirical Decision Problems</li>
       <li>Dynamic rationality of aggregated interval probabilities on propositional logic</li>
-      <li>Robust pseudo-label selection in Semi-Supervised Learning with Soft Revision applied to Bayesian Networks</li>
+      <li>Robust pseudo-label selection in Semi-supervised Learning with Soft Revision applied to Bayesian Networks</li>
       <li>Decision making and hypotheses testing under imprecise statistical models</li>
     </ul>
   </li>
