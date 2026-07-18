@@ -11,7 +11,7 @@ permalink: /news/
    <li>
     I am part of the organization committee of the 2026 edition of the <a href="https://www.ifi.lmu.de/kiml/en/school26/">SIPTA Summer School</a> taking place at LMU Munich from July 27 through 31. There, I will be lecturing the Wednesday session on decsion making. Very much looking forward to it!
   </li>
-   
+   <br>
    <li>
     Our paper <strong>Empirical Decision Theory</strong> was accepted for publication in <strong>Information Sciences</strong>. 
      The full article can be accessed for free until September 5, 2026 using this <a href="https://authors.elsevier.com/a/1nSHK4ZQENJeu">link</a>.
