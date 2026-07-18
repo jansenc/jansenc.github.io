@@ -101,7 +101,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="" class="paper-link">Empirical Decision Theory</a></b></div>
+    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ins.2026.123906" class="paper-link">Empirical Decision Theory</a></b></div>
     <div class="pub-meta">Information Sciences (2026)</div>
    <span class="tag">SJR Q1 </span>
 
