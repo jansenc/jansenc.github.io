@@ -16,6 +16,10 @@ permalink: /news/
      The full article can be accessed for free until September 5, 2026 using this <a href="https://authors.elsevier.com/a/1nSHK4ZQENJeu">link</a>.
   </li>
    <li>
+    I was part of the organization committee of the of the <strong>AI4Science Elevator Pitch Event</strong> that took place at Lancatser University Leipzig on July 10, 2026. There, I also gave a pitch on Statistical Multicriteria Benchmarking. Find the slides here.
+  </li>
+   <li>
+   <li>
     Our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong> was accepted at the <strong>International Conference of Modelling Decisions for Artificial Intelligence (MDAI 2026)</strong>. Access the preprint <a href="https://arxiv.org/abs/2605.10495">here</a>.
   </li>
    <li>
