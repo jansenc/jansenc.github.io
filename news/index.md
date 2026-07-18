@@ -10,7 +10,7 @@ permalink: /news/
 <ul>
    <li>
     Our paper <strong>Empirical Decision Theory</strong> was accepted for publication in <strong>Information Sciences</strong>. 
-     The full article can be accessed for free until September 5, 2026 using this <a href="https://doi.org/10.48550/arXiv.2512.05677">link</a>.
+     The full article can be accessed for free until September 5, 2026 using this <a href="https://authors.elsevier.com/a/1nSHK4ZQENJeu">link</a>.
   </li>
    <li>
     Our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong> was accepted at the <strong>International Conference of Modelling Decisions for Artificial Intelligence (MDAI 2026)</strong>. Access the preprint <a href="https://arxiv.org/abs/2605.10495">here</a>.
