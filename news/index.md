@@ -18,7 +18,7 @@ permalink: /news/
   </li>
    <br>
    <li>
-    I was part of the organization committee of the <strong>AI4Science Elevator Pitch Event</strong> that took place at Lancaster University Leipzig on July 10, 2026. The event was jointly organized with the Leipzig Science networks and colleagues from LULZ. I also gave a pitch on Statistical Multicriteria Benchmarking. Find the slides <a href="/assets/pitch_christoph.pdf">here</a>.
+    I was part of the organization committee of the <strong>AI4Science Elevator Pitch Event</strong> that took place at Lancaster University Leipzig on July 10, 2026. The event was jointly organized with the <a href="https://www.leipzig-science-network.de/de">Leipzig Science Network</a> and colleagues from LULZ. I also gave a pitch on Statistical Multicriteria Benchmarking. Find the slides <a href="/assets/pitch_christoph.pdf">here</a>.
       </li>
    <br>
    <li>
