@@ -10,7 +10,7 @@ permalink: /news/
 <ul>
    <li>
     Our paper <strong>Empirical Decision Theory</strong> was accepted for publication in <strong>Information Sciences</strong>. 
-    Access the preprint <a href="https://doi.org/10.48550/arXiv.2512.05677">here</a>.
+     The full article can be accessed for free until September 5, 2026 using this <a href="[https://doi.org/10.48550/arXiv.2512.05677](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkwnsfk27.r.eu-west-1.awstrack.me%2FL0%2Fhttps%3A%252F%252Fauthors.elsevier.com%252Fa%252F1nSHK4ZQENJeu%2F1%2F0102019f6fb30526-e9bf60ec-dc3d-4d10-837b-dda2b4f508ca-000000%2FS8snP4Q0liZFuHbZ3imkMd7y9U8%3D473&data=05%7C02%7Cjansenc%40live.lancs.ac.uk%7C703c7686443f4ede9e5308dee3f13a5d%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C639198822663497029%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=07nNMI0fLqA4WPF0dfV4PwIvwobRCH%2F4juy7iEMPSmA%3D&reserved=0)">link</a>.
   </li>
    <li>
     Our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong> was accepted at the <strong>International Conference of Modelling Decisions for Artificial Intelligence (MDAI 2026)</strong>. Access the preprint <a href="https://arxiv.org/abs/2605.10495">here</a>.
