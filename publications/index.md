@@ -114,7 +114,7 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2024.109166" class="paper-link">Thomas Augustin's Contributions to Imprecise Probabilities and Statistics</a></b></div>
+    <div class="pub-title"><b><a href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X26001568" class="paper-link">Thomas Augustin's Contributions to Imprecise Probabilities and Statistics</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2026)</div>
     <span class="tag">SJR Q2 (AI, Applied Math, Theoretical CS)</span>
 
