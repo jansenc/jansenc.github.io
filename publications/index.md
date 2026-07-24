@@ -114,6 +114,19 @@ function filterPubs(type) {
 
 <div class="pub journal">
   <div class="pub-left">
+    <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2024.109166" class="paper-link">Thomas Augustin's Contributions to Imprecise Probabilities and Statistics</a></b></div>
+    <div class="pub-meta">International Journal of Approximate Reasoning (2026)</div>
+    <span class="tag">SJR Q2 (AI, Applied Math, Theoretical CS)</span>
+
+    <details><summary>Abstract</summary>
+      We propose a framework for descriptively analyzing sets of partial orders based on the concept of depth functions. Despite intensive studies in linear and metric spaces, there is very little discussion on depth functions for non-standard data types such as partial orders. We introduce an adaptation of the well-known simplicial depth to the set of all partial orders, the union-free generic (ufg) depth. Moreover, we utilize our ufg depth for a comparison of machine learning algorithms based on multidimensional performance measures. Concretely, we provide two examples of classifier comparisons on samples of standard benchmark data sets. Our results demonstrate promisingly the wide variety of different analysis approaches based on ufg methods. Furthermore, the examples outline that our approach differs substantially from existing benchmarking approaches, and thus adds a new perspective to the vivid debate on classifier comparison.
+    </details>
+  </div>
+  <img src="/assets/ijar.jpg">
+</div>
+
+<div class="pub journal">
+  <div class="pub-left">
     <div class="pub-title"><b><a href="https://doi.org/10.1016/j.ijar.2024.109166" class="paper-link">Comparing Machine Learning Algorithms by Union-Free Generic Depth</a></b></div>
     <div class="pub-meta">International Journal of Approximate Reasoning (2024)</div>
     <span class="tag">SJR Q2 (AI, Applied Math, Theoretical CS)</span>
