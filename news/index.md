@@ -8,8 +8,12 @@ permalink: /news/
 
 <h2>2026</h2>
 <ul>
+    <li>
+    The slides for Julian Rodemann's and my lectures on decision making under weakly structured information for the 2026 volume of the SIPTA Summver School can be found <a href="https://authors.elsevier.com/a/1nWB0,KD6ZnKMW">here</a>. Thanks again to all the wonderful participants, making this school a very enjoyable one!
+  </li>
+   <br>
    <li>
-    Our tribute paper <strong>Thomas Augustin's Contribution to Imprecise Probability and Statistics</strong> was now published in the <strong>International Journal of Approximate Reasoning</strong>. 
+    Our tribute paper <strong>Thomas Augustin's Contributions to Imprecise Probability and Statistics</strong> was now published in the <strong>International Journal of Approximate Reasoning</strong>. 
      The full article can be accessed for free until September 16, 2026 using this <a href="https://authors.elsevier.com/a/1nWB0,KD6ZnKMW">link</a>.
   </li>
    <br>
