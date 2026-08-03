@@ -9,7 +9,7 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
-    The slides for Julian Rodemann's and my lectures on <strong>Decision Theory under Weakly Structured Information</strong> for the <strong>SIPTA Summer School 2026</strong> (as well as all other lectures) can be found <a href="https://www.ifi.lmu.de/kiml/en/school26/materials/">here</a>. Thanks again to all the wonderful participants, making this school a very enjoyable one!
+    The slides for <a href="https://rodemann.github.io/">Julian Rodemann</a>'s and my lectures on <strong>Decision Theory under Weakly Structured Information</strong> for the <strong>SIPTA Summer School 2026</strong> (as well as all other lectures) can be found <a href="https://www.ifi.lmu.de/kiml/en/school26/materials/">here</a>. Thanks again to all the wonderful participants, making this school a very enjoyable one!
   </li>
    <br>
    <li>
