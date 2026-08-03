@@ -9,6 +9,11 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
    <li>
+    Our tribute paper <strong>Thomas Augustin's Contribution to Imprecise Probability and Statistics</strong> was now published in the <strong>International Journal of Approximate Reasoning</strong>. 
+     The full article can be accessed for free until September 16, 2026 using this <a href="https://authors.elsevier.com/a/1nWB0,KD6ZnKMW">link</a>.
+  </li>
+   <br>
+   <li>
     I am part of the organization committee of the 2026 edition of the <a href="https://www.ifi.lmu.de/kiml/en/school26/">SIPTA Summer School</a> taking place at LMU Munich from July 27 through 31. There, I will be lecturing the Wednesday session on decsion making. Very much looking forward to it!
   </li>
    <br>
