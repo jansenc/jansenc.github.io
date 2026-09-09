@@ -9,7 +9,7 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
-    I had a great time attending the <strong>23rd International Conference on Modeling Decision for Artificial Intelligence (MDAI 2026)</strong> in Vic, Catalunya. On the very first day of the conference, I presented our paper <strong>Robust Bayes Acts under Prior Perturbations</strong>, followed by some very nice discussions. My slides can be found <a href="/assets/mdai2026.pdf">here</a>. 
+    I had a great time attending the <strong>23rd International Conference on Modeling Decision for Artificial Intelligence (MDAI 2026)</strong> in Vic, Catalunya. I presented our paper <strong>Robust Bayes Acts under Prior Perturbations</strong>, followed by some very nice discussions. My slides can be found <a href="/assets/mdai2026.pdf">here</a>. 
   </li>
     <br>
     <li>
