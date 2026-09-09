@@ -9,8 +9,9 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
-    I had a great time attending the <strong>23rd International Conference on Modeling Decision for Artificial Intelligence (MDAI 2026)</strong> in Vic, Catalunya. On the very first day of the conference, I presented our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong>, followed by some very nice discussions. My slides can be found here. Thanks again to all the participants!
+    This week, I had a great time attending the <strong>23rd International Conference on Modeling Decision for Artificial Intelligence (MDAI 2026)</strong> in Vic, Catalunya. On the very first day of the conference, I presented our paper <strong>Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</strong>, followed by some very nice discussions. My slides can be found here. Thanks again to all the participants!
   </li>
+    <br>
     <li>
     The slides for <a href="https://rodemann.github.io/">Julian Rodemann</a>'s and my lectures on <strong>Decision Theory under Weakly Structured Information</strong> for the <strong>SIPTA Summer School 2026</strong> (as well as all other lectures) can be found <a href="https://www.ifi.lmu.de/kiml/en/school26/materials/">here</a>. Thanks again to all the wonderful participants, making this school a very enjoyable one!
   </li>
