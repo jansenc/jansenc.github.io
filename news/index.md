@@ -9,6 +9,10 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
+    Our paper <strong>How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness</strong> was accepted for <strong>NeurIPS 2026</strong>. A preprint can be found <a href="/assets/mdai2026.pdf">here</a>. 
+  </li>
+    <br>
+    <li>
     I had a great time attending the <strong>23rd International Conference on Modeling Decision for Artificial Intelligence (MDAI 2026)</strong> in Vic, Catalunya. I presented our paper <strong>Robust Bayes Acts under Prior Perturbations</strong>, followed by some very nice discussions. My slides can be found <a href="/assets/mdai2026.pdf">here</a>. 
   </li>
     <br>
