@@ -211,8 +211,8 @@ function filterPubs(type) {
 
 <div class="pub conference">
   <div class="pub-left">
-    <div class="pub-title"><b><a href="https://arxiv.org/abs/2605.10495" class="paper-link">Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</a></b></div>
-    <div class="pub-meta">MDAI 2026 (forthcoming)</div>
+    <div class="pub-title"><b><a href="https://link.springer.com/chapter/10.1007/978-3-032-37976-4_27" class="paper-link">Robust Bayes Acts under Prior Perturbations: Contamination, Stability, and Selection Paths</a></b></div>
+    <div class="pub-meta">MDAI 2026</div>
      <span class="tag">CORE B</span>
 
   <details><summary>Abstract</summary>
