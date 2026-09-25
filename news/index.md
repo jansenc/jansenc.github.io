@@ -9,7 +9,7 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
-    Our paper <strong>How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness</strong> was accepted for publication in the proceedings of <strong>Advances in Neural Information Processing (NeurIPS 2026)</strong>. A preprint can be found <a href="https://arxiv.org/abs/2605.23628">here</a>. 
+    Our paper <strong>How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness</strong> was accepted for publication in the proceedings of <strong>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</strong>. A preprint can be found <a href="https://arxiv.org/abs/2605.23628">here</a>. 
   </li>
     <br>
     <li>
