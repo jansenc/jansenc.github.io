@@ -9,6 +9,9 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
+    I was selected as one of the top reviewers of NeurIPS 2026. See <a href="https://arxiv.org/abs/2605.23628">here</a>. 
+  </li>
+    <li>
     Our paper <strong>How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness</strong> was accepted for publication in <strong>Advances in Neural Information Processing Systems (NeurIPS 2026)</strong>. A preprint can be found <a href="https://arxiv.org/abs/2605.23628">here</a>. 
   </li>
     <br>
