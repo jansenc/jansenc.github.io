@@ -56,7 +56,7 @@ permalink: /news/
   </li>
    <br>
   <li>
-    I was selected as one of the <strong>Gold Reviewers</strong> of ICML 2026.
+    I was selected as one of the <strong>Gold Reviewers</strong> of ICML 2026. See <a href="/assets/icml_gold.png">here</a>.
   </li>
    <br>
   <li>
