@@ -9,7 +9,7 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
-    I have been awarded Fellowship of the Higher Education Academy (FHEA) in recognition of my teaching practice and commitment to excellence in higher education.
+    I have been awarded <strong>Fellowship of the Higher Education Academy (FHEA)</strong> in recognition of my teaching practice and commitment to excellence in higher education.
          </li>
      <br>
     <li>
