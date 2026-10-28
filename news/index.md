@@ -9,6 +9,10 @@ permalink: /news/
 <h2>2026</h2>
 <ul>
     <li>
+    I have been awarded Fellowship of the Higher Education Academy (FHEA) in recognition of my teaching practice and commitment to excellence in higher education.
+         </li>
+     <br>
+    <li>
     I was selected as one of the <strong>top reviewers</strong> of <strong>NeurIPS 2026</strong>. See <a href="/assets/tmph55txifp.pdf">here</a>.
   </li>
      <br>
