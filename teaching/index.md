@@ -10,11 +10,20 @@ permalink: /teaching/
   (For a full list of my academic teaching activities starting in 2013, please see the pdf version of the CV.)
 </p>
 
+<h2>Academic Year 2026/27</h2>
+<ul>
+  <li>Lecture: Data Science Fundamentals</li>
+  <li>Lecture: Statistical Foundations</li>
+  <li>Lecture: Statistical Learning</li>
+  <li>Convenor of the MSc Data Science dissertation module</li>
+</ul>
+
 <h2>Academic Year 2025/26</h2>
 <ul>
   <li>Lecture: Data Science Fundamentals</li>
   <li>Lecture: Statistical Foundations</li>
   <li>Lecture: Statistical Learning</li>
+  <li>Convenor of the MSc Data Science dissertation module</li>
 </ul>
 
 <h2>Academic Year 2024/25</h2>
