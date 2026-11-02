@@ -132,10 +132,18 @@ permalink: /teaching/
   </li>
 
   <li>
-    Multicriteria Portfolio Comparison Based on First-Order Stochastic Dominance (Master, LUL, 2025)
+    Multicriteria Portfolio Comparison Based on First-Order Stochastic Dominance (Master, LULZ, 2025)
   </li>
 
   <li>
-    Economic Decision-Making under Imprecise Probabilities (Bachelor, LUL, 2026)
+    Economic Decision-Making under Imprecise Probabilities (Bachelor, LULZ, 2026)
+  </li>
+
+  <li>
+    A Comparative Study of Different Statistical Approaches in Multi-Dimensional Poverty Analsis (Master, LULZ, 2026)
+  </li>
+
+  <li>
+    Multicriteria Portfolio Comparison Based on First-Order Stochastic Dominance (Master, LULZ, 2026)
   </li>
 </ul>
