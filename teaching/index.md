@@ -144,6 +144,6 @@ permalink: /teaching/
   </li>
 
   <li>
-    Multicriteria Portfolio Comparison Based on First-Order Stochastic Dominance (Master, LULZ, 2026)
+    Generalisation Performance of Linear and Kernel-Based Models under Gaussian Covariate Shift and Contamination (Master, LULZ, 2026)
   </li>
 </ul>
