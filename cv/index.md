@@ -14,7 +14,9 @@ permalink: /cv/
     School of Computing & Communications (SCC)<br>
     Lancaster University Leipzig <br><br>
     Current Roles and Responsibilities:
-    <li><öö/li>
+    <ul>
+      <li><öö/li>
+    </ul>
   </p>
 </div>
 
