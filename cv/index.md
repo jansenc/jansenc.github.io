@@ -10,7 +10,7 @@ permalink: /cv/
 <div class="cv-entry">
   <h3>Since June 2024</h3>
   <p>
-    Assistant Professor in Data Science<br>
+    <strong>Assistant Professor in Data Science</strong><br>
     School of Computing & Communications (SCC)<br>
     Lancaster University Leipzig <br><br>
     Current Roles and Responsibilities:
