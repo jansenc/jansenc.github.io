@@ -27,7 +27,7 @@ permalink: /cv/
 <div class="cv-entry">
   <h3>April 2021 – May 2024</h3>
   <p>
-    Habilitation candidate<br>
+    <strong>Habilitation candidate</strong><br>
     Group: Method(olog)ical Foundations of Statistics and their Applications<br>
     Department of Statistics, LMU Munich<br><br>
     The habilitation was submitted in May 2024 and officially passed in January 2025.
@@ -39,7 +39,7 @@ permalink: /cv/
 <div class="cv-entry">
   <h3>Summer Semester 2022</h3>
   <p>
-    Interim W2 Professor for Statistics<br>
+    <strong>Interim W2 Professor for Statistics</strong><br>
     Department of Statistics, LMU Munich
   </p>
 </div>
@@ -49,7 +49,7 @@ permalink: /cv/
 <div class="cv-entry">
   <h3>January 2019 – March 2021</h3>
   <p>
-    Teacher for Mathematics<br>
+    <strong>Teacher for Mathematics</strong><br>
     Private Wirtschaftsschule Scheibner, Munich
   </p>
 </div>
@@ -59,7 +59,7 @@ permalink: /cv/
 <div class="cv-entry">
   <h3>September 2018 – November 2019</h3>
   <p>
-    Adjunct Lecturer for Statistics<br>
+    <strong>Adjunct Lecturer for Statistics</strong><br>
     Hochschule Fresenius
   </p>
 </div>
@@ -69,7 +69,7 @@ permalink: /cv/
 <div class="cv-entry">
   <h3>April 2015 – January 2019</h3>
   <p>
-    Doctoral Researcher<br>
+    <strong>Doctoral Researcher</strong><br>
     Method(olog)ical Foundations of Statistics and their Applications<br>
     Ludwig-Maximilians-University of Munich
   </p>
