@@ -13,7 +13,8 @@ permalink: /cv/
     Assistant Professor in Data Science<br>
     School of Computing & Communications (SCC)<br>
     Lancaster University Leipzig <br><br>
-    Current Roles:
+    Current Roles and Responsibilities:
+    <li><öö/li>
   </p>
 </div>
 
