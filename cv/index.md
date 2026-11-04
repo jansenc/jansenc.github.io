@@ -80,6 +80,7 @@ permalink: /cv/
 <h2>Academic Degrees</h2>
 
 <ul>
+   <li><strong>Fellow of the Higher Education Academy (FHEA)</strong> (2026)</li>
   <li><strong>Habilitation in Statistics</strong> (2025)</li>
   <li><strong>Dr. rer. nat. in Statistics</strong> (2018)</li>
   <li><strong>M.Sc. in Statistics</strong> (2015)</li>
