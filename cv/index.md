@@ -15,6 +15,7 @@ permalink: /cv/
     Lancaster University Leipzig <br><br>
     <strong>Current Roles and Responsibilities:</strong>
     <ul>
+      <li>Director of Research SCC (jointly with John Warwicker)</li>
       <li>Programme Director of the MSc Data Science</li>
     </ul>
   </p>
